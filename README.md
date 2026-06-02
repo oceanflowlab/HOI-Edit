@@ -9,5 +9,6 @@ Current image editing methods excels at static attributes but fails at complex H
 </p>
 
 <p align="center">
+  <a href="assets/HOIEdit_ICML_2026_CR_submission.pdf">Paper (PDF)</a> |
   <a href="assets/fig1_v3.pdf">Figure (PDF)</a>
 </p>
