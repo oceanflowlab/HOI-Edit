@@ -1,0 +1,7 @@
+# ace_i2v_basic — Python 3.10+
+tqdm>=4.65.0
+google-genai>=0.2.0
+dashscope>=1.17.0
+requests>=2.28.0
+opencv-python-headless>=4.8.0
+numpy>=1.24.0

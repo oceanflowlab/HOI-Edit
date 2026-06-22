@@ -1,0 +1,20 @@
+# DINO 检测环境 (GroundingDINO)
+# 创建: conda create -n cr-dino python=3.10 -y && conda activate cr-dino
+# 安装 GroundingDINO 见 env/requirements/README.md
+
+torch>=2.0
+torchvision
+transformers>=4.30,<5.0
+opencv-python-headless
+pillow
+numpy
+tqdm
+supervision
+addict
+yapf
+timm
+
+# GroundingDINO 需单独 clone 并编译 CUDA 扩展:
+# git clone https://github.com/IDEA-Research/GroundingDINO.git
+# cd GroundingDINO && pip install -r requirements.txt
+# pip install -e .   # 或 export PYTHONPATH=$PWD

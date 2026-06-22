@@ -1,0 +1,45 @@
+# Local machine configuration and secrets
+env/local.conf
+scpe/env.local
+*.env
+
+# Runtime outputs
+eval_runs/*
+!eval_runs/.gitkeep
+final_eval_data_edited/
+scpe/output/
+scpe/logs/
+**/outputs/
+**/logs/
+*.log
+
+# User-provided data and generated frames
+data/data_v7_L12/
+data/data_v7_L3/
+data/*_frames/
+data_v7/CR/*_frames/
+data_v7/CR/data_v7_L12/
+data_v7/CR/data_v7_L3/
+
+# Large model weights/checkpoints
+weights/
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+third_party/GroundingDINO/weights/
+sam2/checkpoints/
+
+# Python/cache/build artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+build/
+dist/
+*.egg-info/
+
+# OS/editor files
+.DS_Store
+.idea/
+.vscode/

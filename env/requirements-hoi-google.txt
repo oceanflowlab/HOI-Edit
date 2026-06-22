@@ -1,0 +1,10 @@
+# HOI Check (Google Gemini) + VQA Gemini
+# 创建: conda create -n cr-hoi-google python=3.11 -y && conda activate cr-hoi-google
+
+google-genai>=1.0
+opencv-python-headless
+pillow
+numpy
+tqdm
+
+# 可选代理: 在 env/local.conf 设置 CR_DEFAULT_PROXY_URL

@@ -1,0 +1,3955 @@
+{
+    "Dclvh91oJLI-0_04_27.634-0_04_36.409 25.jpg": {
+        "instruction": "Make the person pick up the leftmost upside-down cup with both hands.",
+        "object": "cup",
+        "object_bounding_box": [
+            98,
+            531,
+            159,
+            617
+        ],
+        "subject_bounding_box": [
+            256,
+            73,
+            639,
+            568
+        ],
+        "generated_question": "Has the person in the blue bounding box picked up the leftmost upside-down cup in the red bounding box with both hands?",
+        "question_v6": [
+            "Is the  big jar out of the person's hand?"
+        ],
+        "tags_v6": "L3-reasoning_process"
+    },
+    "EE04xDDBkIM-0_06_48.241-0_07_36.289 109.jpg": {
+        "instruction": "Make the person pick up the plate with only one piece of bread with both hands.",
+        "object": "plate with only one piece of bread",
+        "object_bounding_box": [
+            111,
+            418,
+            1093,
+            678
+        ],
+        "subject_bounding_box": [
+            402,
+            1,
+            1277,
+            714
+        ],
+        "generated_question": "Has the person in the blue bounding box picked up the plate with only one piece of bread in the red bounding box with both hands?",
+        "question_v6": [
+            "Is the spatula out of the person's hand?"
+        ],
+        "tags_v6": "L3-reasoning_process"
+    },
+    "EE04xDDBkIM-0_06_48.241-0_07_36.289 12.jpg": {
+        "instruction": "Make the person pick up the plate.",
+        "object": "plate",
+        "object_bounding_box": [
+            211,
+            76,
+            1061,
+            719
+        ],
+        "subject_bounding_box": [
+            379,
+            0,
+            986,
+            415
+        ],
+        "generated_question": "Has the person in the blue bounding box picked up the plate in the red bounding box?",
+        "question_v6": [
+            "Is this knife out of the person's hand?"
+        ],
+        "tags_v6": "L3-reasoning_process"
+    },
+    "EE04xDDBkIM-0_06_48.241-0_07_36.289 17.jpg": {
+        "instruction": "Make the person pick up the plate with both hands.",
+        "object": "plate",
+        "object_bounding_box": [
+            4,
+            248,
+            1269,
+            717
+        ],
+        "subject_bounding_box": [
+            2,
+            1,
+            1255,
+            381
+        ],
+        "generated_question": "Has the person in the blue bounding box picked up the plate in the red bounding box with both hands?",
+        "question_v6": [
+            "Is the knife out of the person's hand?"
+        ],
+        "tags_v6": "L3-reasoning_process"
+    },
+    "EE04xDDBkIM-0_06_48.241-0_07_36.289 63.jpg": {
+        "instruction": "Make the person pick up the cutting board.",
+        "object": "cutting board",
+        "object_bounding_box": [
+            99,
+            116,
+            1221,
+            696
+        ],
+        "subject_bounding_box": [
+            537,
+            1,
+            1279,
+            343
+        ],
+        "generated_question": "Has the person in the blue bounding box picked up the cutting board in the red bounding box?",
+        "question_v6": [
+            "Is the bread out of the person's hand?"
+        ],
+        "tags_v6": "L3-reasoning_process"
+    },
+    "N9tThbF9_ck-0_03_23.375-0_04_11.375 21.jpg": {
+        "instruction": "Make the person pick up the jar.",
+        "object": "jar",
+        "object_bounding_box": [
+            519,
+            6,
+            707,
+            318
+        ],
+        "subject_bounding_box": [
+            3,
+            223,
+            527,
+            718
+        ],
+        "generated_question": "Has the person in the blue bounding box picked up the jar in the red bounding box?",
+        "question_v6": [
+            "Is the knife out of the person's hand?"
+        ],
+        "tags_v6": "L3-reasoning_process"
+    },
+    "NBiVKUJ3UNk-0_01_25.293-0_01_29.339 03.jpg": {
+        "instruction": "Make the person pick up the small bowl on the right with both hands.",
+        "object": "bowl",
+        "object_bounding_box": [
+            1042,
+            447,
+            1277,
+            643
+        ],
+        "subject_bounding_box": [
+            275,
+            1,
+            1273,
+            496
+        ],
+        "generated_question": "Has the person in the blue bounding box picked up the small bowl in the red bounding box with both hands?",
+        "question_v6": [
+            "Is the blender out of the person's hand?"
+        ],
+        "tags_v6": "L3-reasoning_process"
+    },
+    "PyIDYPTd93g-0_09_40.288-0_09_58.639 01.jpg": {
+        "instruction": "Make the person pick up the ketchup bottle capped by a green nozzle with both hands.",
+        "object": "ketchup",
+        "object_bounding_box": [
+            70,
+            451,
+            196,
+            611
+        ],
+        "subject_bounding_box": [
+            389,
+            1,
+            1180,
+            719
+        ],
+        "generated_question": "Has the person in the blue bounding box picked up the ketchup in the red bounding box with both hands?",
+        "question_v6": [
+            "Is the knife out of the person's hand?"
+        ],
+        "tags_v6": "L3-reasoning_process"
+    },
+    "aLg3rMGml9s-0_02_03.456-0_02_06.417 02.jpg": {
+        "instruction": "Make the person pick up the leftmost cake in the corner with scratches",
+        "object": "pancake",
+        "object_bounding_box": [
+            423,
+            350,
+            573,
+            458
+        ],
+        "subject_bounding_box": [
+            338,
+            4,
+            1279,
+            349
+        ],
+        "generated_question": "Has the person in the blue bounding box picked up the leftmost cake with scratches in the red bounding box?",
+        "question_v6": [
+            "Is the plate out of the person's hand?"
+        ],
+        "tags_v6": "L3-reasoning_process"
+    },
+    "aLj5xpRDfkw-0_01_39.182-0_01_42.268 03.jpg": {
+        "instruction": "Make the person pick up the metal jigger with both hands.",
+        "object": "metal jigger",
+        "object_bounding_box": [
+            460,
+            430,
+            493,
+            482
+        ],
+        "subject_bounding_box": [
+            405,
+            196,
+            640,
+            493
+        ],
+        "generated_question": "Has the person in the blue bounding box picked up the metal jigger in the red bounding box with both hands?",
+        "question_v6": [
+            "Is the cup out of the person's hand?"
+        ],
+        "tags_v6": "L3-reasoning_process"
+    },
+    "adzetCD4sAY-0_03_11.191-0_03_34.981 03.jpg": {
+        "instruction": "Make the person pick up the small bowl with butter in it with both hands.",
+        "object": "bowl",
+        "object_bounding_box": [
+            882,
+            1,
+            1215,
+            276
+        ],
+        "subject_bounding_box": [
+            33,
+            0,
+            849,
+            390
+        ],
+        "generated_question": "Has the person in the blue bounding box picked up the small bowl in the red bounding box with both hands?",
+        "question_v6": [
+            "Is the egg out of the person's hand?"
+        ],
+        "tags_v6": "L3-reasoning_process"
+    },
+    "akdz7nbDgwY-0_02_35.788-0_02_58.611 04.jpg": {
+        "instruction": "Make the person pick up the bottle with both hands.",
+        "object": "bottle",
+        "object_bounding_box": [
+            1014,
+            405,
+            1104,
+            588
+        ],
+        "subject_bounding_box": [
+            265,
+            32,
+            705,
+            664
+        ],
+        "generated_question": "Has the person in the blue bounding box picked up the bottle in the red bounding box with both hands?",
+        "question_v6": [
+            "Is the lemon out of the person's hand?"
+        ],
+        "tags_v6": "L3-reasoning_process"
+    },
+    "cF27_hdGSNE-0_04_30.803-0_04_52.959 06.jpg": {
+        "instruction": "Make the person pick up the jar.",
+        "object": "jar",
+        "object_bounding_box": [
+            256,
+            20,
+            541,
+            293
+        ],
+        "subject_bounding_box": [
+            662,
+            514,
+            963,
+            719
+        ],
+        "generated_question": "Has the person in the blue bounding box picked up the jar in the red bounding box?",
+        "question_v6": [
+            "Is the brush out of the person's hand?"
+        ],
+        "tags_v6": "L3-reasoning_process"
+    },
+    "cYM2x-ND4x0-0_03_18.520-0_04_06.520 04.jpg": {
+        "instruction": "Make the person pick up the origami with both hands, with nothing else in their hands.",
+        "object": "origami",
+        "object_bounding_box": [
+            361,
+            82,
+            1001,
+            697
+        ],
+        "subject_bounding_box": [
+            599,
+            331,
+            1279,
+            716
+        ],
+        "generated_question": "Has the person in the blue bounding box picked up the origami in the red bounding box with both hands?",
+        "question_v6": [
+            "Is the pen out of the person's right hand?"
+        ],
+        "tags_v6": "L3-reasoning_process"
+    },
+    "dH_DT2pZhmA-0_02_52.505-0_02_55.175 01.jpg": {
+        "instruction": "Make the person pick up the transparent plastic cup on the right with both hands.",
+        "object": "cup",
+        "object_bounding_box": [
+            699,
+            326,
+            948,
+            655
+        ],
+        "subject_bounding_box": [
+            2,
+            1,
+            1276,
+            475
+        ],
+        "generated_question": "Has the person in the blue bounding box picked up the large cup on the right in the red bounding box with both hands?",
+        "question_v6": [
+            "Is the bottle out of the person's hand?"
+        ],
+        "tags_v6": "L3-reasoning_process"
+    },
+    "dKSIMdrUJYQ-0_06_25.843-0_06_31.182 01.jpg": {
+        "instruction": "Make the person pick up the box.",
+        "object": "box",
+        "object_bounding_box": [
+            827,
+            526,
+            1002,
+            628
+        ],
+        "subject_bounding_box": [
+            315,
+            47,
+            756,
+            635
+        ],
+        "generated_question": "Has the person in the blue bounding box picked up the box in the red bounding box?",
+        "question_v6": [
+            "Is the ball out of the person's hand?"
+        ],
+        "tags_v6": "L3-reasoning_process"
+    },
+    "da_ReGuEVqk-0_06_15.174-0_06_20.246 03.jpg": {
+        "instruction": "Make the person pick up the bowl with a wooden spoon with both hands.",
+        "object": "bowl",
+        "object_bounding_box": [
+            400,
+            463,
+            536,
+            549
+        ],
+        "subject_bounding_box": [
+            344,
+            55,
+            1000,
+            489
+        ],
+        "generated_question": "Has the person in the blue bounding box picked up the bowl with a wooden spoon in the red bounding box with both hands?\n\nProcess Question:\nIs the noodles out of the person's hand?",
+        "question_v6": [],
+        "tags_v6": "L3-reasoning_process"
+    },
+    "dwlJV-Z5HFY-0_08_54.680-0_08_57.200 01.jpg": {
+        "instruction": "Make the person pick up the plate with both hands.",
+        "object": "plate",
+        "object_bounding_box": [
+            394,
+            451,
+            1081,
+            703
+        ],
+        "subject_bounding_box": [
+            8,
+            2,
+            1027,
+            395
+        ],
+        "generated_question": "Has the person in the blue bounding box picked up the plate in the red bounding box with both hands?",
+        "question_v6": [
+            "Is the sandwich out of the person's hand?"
+        ],
+        "tags_v6": "L3-reasoning_process"
+    },
+    "mYlf1xVV-i8-0_09_45.418-0_09_48.654 03.jpg": {
+        "instruction": "Make the person touch the watch.",
+        "object": "watch",
+        "object_bounding_box": [
+            977,
+            305,
+            1133,
+            492
+        ],
+        "subject_bounding_box": [
+            510,
+            0,
+            1277,
+            601
+        ],
+        "generated_question": "Has the person in the blue bounding box touched the watch in the red bounding box?",
+        "question_v6": [
+            "Is the electric drill out of the person's hand?"
+        ],
+        "tags_v6": "L3-reasoning_process"
+    },
+    "oVvgBH5TjY8-0_01_39.100-0_01_43.633 04.jpg": {
+        "instruction": "Make the person pick up the model with both hands, with nothing else in their hands.",
+        "object": "model",
+        "object_bounding_box": [
+            1109,
+            548,
+            1279,
+            712
+        ],
+        "subject_bounding_box": [
+            894,
+            7,
+            1256,
+            674
+        ],
+        "generated_question": "Has the person in the blue bounding box picked up the model in the red bounding box with both hands?",
+        "question_v6": [
+            "Is the report out of the person's hand?"
+        ],
+        "tags_v6": "L3-reasoning_process"
+    },
+    "Ez4_kxfr3Ik-0_03_39.093-0_03_41.179 09.jpg": {
+        "instruction": "Make the person tighten the screws on the machine.",
+        "subject_bounding_box": [
+            8,
+            0,
+            1273,
+            575
+        ],
+        "tools": "screwdriver",
+        "tool_bboxes": [
+            2,
+            578,
+            483,
+            701
+        ],
+        "question_v6": [
+            "Has the screwdriver in the yellow bounding box been used to secure the screws on the machine?"
+        ],
+        "object": "machine",
+        "object_bounding_box": [
+            535,
+            232,
+            893,
+            668
+        ],
+        "generated_question": "Has the person in the blue bounding box tightened the screws on the machine in the red bounding box?",
+        "tags_v6": "L3-reasoning_process"
+    },
+    "F0k2G2BDrv0-0_10_15.600-0_10_22.100 06.jpg": {
+        "instruction": "Make the person cut the long branch in front of them.",
+        "subject_bounding_box": [
+            0,
+            0,
+            627,
+            717
+        ],
+        "tools": "scissors",
+        "tool_bboxes": [
+            394,
+            288,
+            649,
+            376
+        ],
+        "question_v6": [
+            "Have the scissors in the yellow bounding box been used to cut the long branch in front of the person?"
+        ],
+        "object": "long branch in front of the person",
+        "object_bounding_box": [
+            294,
+            43,
+            1166,
+            567
+        ],
+        "generated_question": "Has the person in the blue bounding box cut the long branch in front of them in the red bounding box?",
+        "tags_v6": "L3-reasoning_process"
+    },
+    "GwiSBfZwqPc-0_06_04.360-0_06_11.560 11.jpg": {
+        "instruction": "Make the person stir the soup in the pot.",
+        "subject_bounding_box": [
+            910,
+            469,
+            1279,
+            715
+        ],
+        "tools": "spoon",
+        "tool_bboxes": [
+            485,
+            82,
+            933,
+            414
+        ],
+        "question_v6": [
+            "Has the spoon in the yellow bounding box been used to stir the soup in the pot in the red bounding box?"
+        ],
+        "object": "pot of soup",
+        "object_bounding_box": [
+            305,
+            180,
+            993,
+            576
+        ],
+        "generated_question": "Has the person in the blue bounding box used the spoon in the yellow bounding box to stir the soup in the pot in the red bounding box?",
+        "tags_v6": "L3-reasoning_process"
+    },
+    "HmLd3OW1TVw-0_06_31.908-0_07_19.922 71.jpg": {
+        "instruction": "Make the person collect some river water with a suitable nearby container.",
+        "subject_bounding_box": [
+            100,
+            0,
+            417,
+            478
+        ],
+        "tools": "empty bucket",
+        "tool_bboxes": [
+            389,
+            236,
+            473,
+            342
+        ],
+        "question_v6": [
+            "Has the empty bucket in the yellow bounding box been used to collect some river water?"
+        ],
+        "object": "river water",
+        "object_bounding_box": [
+            365,
+            3,
+            1279,
+            717
+        ],
+        "generated_question": "Has the person in the blue bounding box used the empty bucket to collect some river water in the red bounding box?",
+        "tags_v6": "L3-reasoning_process"
+    },
+    "LMpm7Q2TEkM-0_03_29.676-0_04_17.724 112.jpg": {
+        "instruction": "Make the person strike the perforated metal rail he is touching.",
+        "subject_bounding_box": [
+            304,
+            1,
+            1064,
+            326
+        ],
+        "tools": "hammer",
+        "tool_bboxes": [
+            4,
+            232,
+            180,
+            350
+        ],
+        "question_v6": [
+            "Has the hammer in the yellow bounding box been used to strike the perforated metal rail?"
+        ],
+        "object": "metal rail",
+        "object_bounding_box": [
+            337,
+            321,
+            957,
+            414
+        ],
+        "generated_question": "Has the person in the blue bounding box used the hammer to strike the perforated metal rail in the red bounding box?",
+        "tags_v6": "L3-reasoning_process"
+    },
+    "LYOVMBENqoA-0_02_19.639-0_02_22.684 14.jpg": {
+        "instruction": "Make the person lift the leftmost bread on the pan.",
+        "subject_bounding_box": [
+            465,
+            0,
+            840,
+            606
+        ],
+        "tools": "spatula",
+        "tool_bboxes": [
+            467,
+            549,
+            562,
+            605
+        ],
+        "question_v6": [
+            "Has the spatula in the yellow bounding box been used to lift the leftmost bread?"
+        ],
+        "object": "bread",
+        "object_bounding_box": [
+            465,
+            603,
+            543,
+            643
+        ],
+        "generated_question": "Has the person in the blue bounding box used the spatula to lift the leftmost bread in the red bounding box?",
+        "tags_v6": "L3-reasoning_process"
+    },
+    "Pfat40RFnc4-0_12_03.500-0_12_10.208 07.jpg": {
+        "instruction": "Make the person cut the bread with the knife.",
+        "subject_bounding_box": [
+            464,
+            47,
+            870,
+            556
+        ],
+        "tools": "knife",
+        "tool_bboxes": [
+            683,
+            500,
+            794,
+            568
+        ],
+        "question_v6": [
+            "Has the knife in the yellow bounding box been used to cut the bread?"
+        ],
+        "object": "bread",
+        "object_bounding_box": [
+            422,
+            607,
+            552,
+            674
+        ],
+        "generated_question": "Has the person in the blue bounding box used the knife in the yellow bounding box to cut the bread in the red bounding box?",
+        "tags_v6": "L3-reasoning_process"
+    },
+    "gj5kgvnzxDo-0_08_57.328-0_09_17.848 23.jpg": {
+        "instruction": "Make the person grasp the sandwich.",
+        "subject_bounding_box": [
+            261,
+            2,
+            1234,
+            510
+        ],
+        "tools": "tongs",
+        "tool_bboxes": [
+            1023,
+            499,
+            1277,
+            715
+        ],
+        "question_v6": [
+            "Have the tongs in the yellow bounding box been used to grasp the sandwich?"
+        ],
+        "object": "bread",
+        "object_bounding_box": [
+            373,
+            365,
+            860,
+            704
+        ],
+        "generated_question": "Has the person in the blue bounding box used the tongs to grasp the sandwich in the red bounding box?",
+        "tags_v6": "L3-reasoning_process"
+    },
+    "pDQrQJl9cFw-0_02_42.795-0_02_46.232 11.jpg": {
+        "instruction": "Make the person squeeze the green paint onto the dog tag.",
+        "subject_bounding_box": [
+            431,
+            44,
+            790,
+            565
+        ],
+        "tools": "green paint",
+        "tool_bboxes": [
+            967,
+            530,
+            1047,
+            719
+        ],
+        "question_v6": [
+            "Has the green paint in the yellow bounding box been used to squeeze paint onto the dog tag?"
+        ],
+        "object": "dog tag",
+        "object_bounding_box": [
+            485,
+            553,
+            684,
+            648
+        ],
+        "generated_question": "Has the person in the blue bounding box used the green paint in the yellow bounding box to squeeze paint onto the dog tag in the red bounding box?",
+        "tags_v6": "L3-reasoning_process"
+    },
+    "rB3e_0sLeQY-0_02_16.903-0_02_28.014 07.jpg": {
+        "instruction": "Make the person pound the smaller piece of meat on the cutting board.",
+        "subject_bounding_box": [
+            422,
+            2,
+            1172,
+            343
+        ],
+        "tools": "hammer",
+        "tool_bboxes": [
+            408,
+            328,
+            862,
+            571
+        ],
+        "question_v6": [
+            "Has the hammer in the yellow bounding box been used to pound the small piece of meat?"
+        ],
+        "object": "meat",
+        "object_bounding_box": [
+            811,
+            368,
+            915,
+            466
+        ],
+        "generated_question": "Has the person in the blue bounding box used the hammer to pound the small piece of meat in the red bounding box?",
+        "tags_v6": "L3-reasoning_process"
+    },
+    "iBjKnOA59r4-0:02:35.363-0:02:41.035_frame_0003_136.png": {
+        "instruction": "Make the person pick up the food from the pot",
+        "object": "pot",
+        "object_bounding_box": [
+            515,
+            415,
+            752,
+            654
+        ],
+        "subject_bounding_box": [
+            336,
+            27,
+            728,
+            543
+        ],
+        "generated_question": "Has the person in the blue bounding box picked up the food from the pot in the red bounding box?",
+        "tool_bboxes": [
+            356,
+            382,
+            418,
+            503
+        ],
+        "tools": "tong",
+        "question": [
+            "Have the person picked up the food with the tong?"
+        ],
+        "tag": [
+            "L3-reasoning_process"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L3-reasoning_process",
+        "question_v6": [
+            "Have the person picked up the food with the tong?"
+        ]
+    },
+    "zVadmsv57wY-0:05:52.920-0:06:26.560_frame_0003_842.png": {
+        "instruction": "Make the person pour out the liquid from the cup",
+        "object": "cup",
+        "object_bounding_box": [
+            511,
+            369,
+            668,
+            555
+        ],
+        "subject_bounding_box": [
+            656,
+            89,
+            1278,
+            591
+        ],
+        "generated_question": "Has the person in the blue bounding box poured out the cup in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Has the liquid in this cup been poured?"
+        ],
+        "tag": [
+            "L2-morphology-non_rigid_change"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L3-non_rigid_change",
+        "question_v6": [
+            "Has the liquid in this cup been poured?"
+        ]
+    },
+    "5726335_resize1080p_scene-7_frame_0001_0.png": {
+        "instruction": "Make the person cut a slice of pumpkin pie",
+        "object": "pumpkin pie",
+        "object_bounding_box": [
+            609,
+            258,
+            1466,
+            790
+        ],
+        "subject_bounding_box": [
+            1242,
+            0,
+            2045,
+            526
+        ],
+        "generated_question": "Has the person in the blue bounding box cut a slice of the pumpkin pie in the red bounding box?",
+        "tool_bboxes": [
+            1093,
+            0,
+            1493,
+            482
+        ],
+        "tools": "knife",
+        "question": [
+            "Has the knife been used to cut a slice of pumpkin pie?",
+            "Has the pumpkin pie been cut?"
+        ],
+        "tag": [
+            "L2-tool-already_interacted",
+            "L2-morphology-non_rigid_change"
+        ],
+        "tags_v6": "L1-interaction-relation_occur, L3-non_rigid_change",
+        "question_v6": [
+            "Has the pumpkin pie been cut?"
+        ]
+    },
+    "kFJK0LBdWWs-0:15:47.120-0:15:50.840_frame_0002_43.png": {
+        "instruction": "Make the person touch the plaid pleated skirt hanging on the far left of the rack",
+        "object": "skirt",
+        "object_bounding_box": [
+            228,
+            248,
+            413,
+            710
+        ],
+        "subject_bounding_box": [
+            746,
+            86,
+            1017,
+            718
+        ],
+        "generated_question": "Has the person in the blue bounding box touched the skirt in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Is the person standing next to the skirt?"
+        ],
+        "tag": [
+            "L3-reasoning_process"
+        ],
+        "tags_v6": "L1-interaction-relation_occur, L2-location_understanding-specific_pos_end, L3-reasoning_process",
+        "question_v6": [
+            "Is the woman standing next to the floor‑standing clothes rack and facing it?",
+            "Is the person standing next to the skirt?"
+        ]
+    },
+    "kak7agh-kNQ-0:03:43.181-0:04:08.248_frame_0003_598.png": {
+        "instruction": "Make the person take out a headset from the hard case",
+        "object": "hard case",
+        "object_bounding_box": [
+            476,
+            395,
+            914,
+            716
+        ],
+        "subject_bounding_box": [
+            381,
+            24,
+            924,
+            664
+        ],
+        "generated_question": "Has the person in the blue bounding box opened the hard case in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Is the hard case opened"
+        ],
+        "tag": [
+            "L3-reasoning_process"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L3-reasoning_process",
+        "question_v6": [
+            "Is the hard case opened?"
+        ]
+    },
+    "138szki_-J8-0:03:46.125-0:04:23.429_frame_0001_0.png": {
+        "instruction": "Make the person turn off the tablet in his hands.",
+        "object": "tablet",
+        "object_bounding_box": [
+            368,
+            38,
+            884,
+            720
+        ],
+        "subject_bounding_box": [
+            170,
+            219,
+            1100,
+            717
+        ],
+        "generated_question": "Has the person in the blue bounding box turned off the tablet in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Has the screen of the tablet gone dark?"
+        ],
+        "tag": [
+            "L2-morphology-non_rigid_change"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L3-non_rigid_change",
+        "question_v6": [
+            "Has the screen of the tablet gone dark?"
+        ]
+    },
+    "F454wYVlxoM-0:02:03.823-0:02:42.562_frame_0001_0.png": {
+        "instruction": "Make the person wear the scarf",
+        "object": "scarf",
+        "object_bounding_box": [
+            257,
+            413,
+            568,
+            718
+        ],
+        "subject_bounding_box": [
+            571,
+            0,
+            943,
+            717
+        ],
+        "generated_question": "Has the person in the blue bounding box worn the scarf in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Has the scarf been worn?"
+        ],
+        "tag": [
+            "L2-morphology-non_rigid_change"
+        ],
+        "tags_v6": "L1-interaction-relation_occur, L3-non_rigid_change",
+        "question_v6": [
+            "Has the scarf been worn?"
+        ]
+    },
+    "Sl_jeZnbjj0-0:01:29.480-0:01:36.920_frame_0001_0.png": {
+        "instruction": "Make the person cut the bell pepper with the knife",
+        "object": "bell pepper",
+        "object_bounding_box": [
+            476,
+            242,
+            786,
+            408
+        ],
+        "subject_bounding_box": [
+            389,
+            0,
+            1134,
+            372
+        ],
+        "generated_question": "Has the person in the blue bounding box cut the bell pepper in the red bounding box?",
+        "tool_bboxes": [
+            485,
+            98,
+            541,
+            370
+        ],
+        "tools": "knife",
+        "question": [
+            "Has the bell pepper been cut?",
+            "Has the knife been used to cut the bell pepper?"
+        ],
+        "tag": [
+            "L2-morphology-non_rigid_change",
+            "L2-tool-already_interacted"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L3-non_rigid_change",
+        "question_v6": [
+            "Has the bell pepper been cut?"
+        ]
+    },
+    "jJCLwMgFxE8-0:01:07.440-0:01:09.680_frame_0002_25.png": {
+        "instruction": "Make the person cover the blender with the lid on the cutting board",
+        "object": "laptop",
+        "object_bounding_box": [
+            702,
+            316,
+            903,
+            620
+        ],
+        "subject_bounding_box": [
+            390,
+            35,
+            868,
+            598
+        ],
+        "generated_question": "Has the person in the blue bounding box covered the blender in the red bounding box?",
+        "tool_bboxes": [
+            864,
+            460,
+            1039,
+            570
+        ],
+        "tools": "",
+        "question": [
+            "Has the blender been covered?"
+        ],
+        "tag": [
+            "L2-morphology-non_rigid_change"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L3-non_rigid_change",
+        "question_v6": [
+            "Has the blender been covered?"
+        ]
+    },
+    "L6QyqkQ3KJ8-0:00:57.023-0:01:00.393_frame_0001_4.png": {
+        "instruction": "Make the person fold the card",
+        "object": "card",
+        "object_bounding_box": [
+            734,
+            189,
+            865,
+            389
+        ],
+        "subject_bounding_box": [
+            310,
+            35,
+            935,
+            636
+        ],
+        "generated_question": "Has the person in the blue bounding box folded the card in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Has the card been folded?"
+        ],
+        "tag": [
+            "L2-morphology-non_rigid_change"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L3-non_rigid_change",
+        "question_v6": [
+            "Has the card been folded?"
+        ]
+    },
+    "8358813_resize1080p_scene-7_frame_0001_0.png": {
+        "instruction": "Make the person fold the newspaper",
+        "object": "newspaper",
+        "object_bounding_box": [
+            701,
+            182,
+            1104,
+            603
+        ],
+        "subject_bounding_box": [
+            387,
+            78,
+            1338,
+            1074
+        ],
+        "generated_question": "Has the person in the blue bounding box folded the newspaper in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Has the newspaper been folded?"
+        ],
+        "tag": [
+            "L2-morphology-non_rigid_change"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L3-non_rigid_change",
+        "question_v6": [
+            "Has the newspaper been folded?"
+        ]
+    },
+    "6234308_resize1080p_scene-0_frame_0003_59.png": {
+        "instruction": "Make the person pour water from the cup",
+        "object": "cup",
+        "object_bounding_box": [
+            940,
+            705,
+            1053,
+            805
+        ],
+        "subject_bounding_box": [
+            868,
+            318,
+            1629,
+            1077
+        ],
+        "generated_question": "Has the person in the blue bounding box poured from the cup in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Has the water in the cup been poured?"
+        ],
+        "tag": [
+            "L2-morphology-non_rigid_change"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L3-non_rigid_change",
+        "question_v6": [
+            "Has the water in the cup been poured?"
+        ]
+    },
+    "460Ny35SbAg-0:04:48.621-0:04:51.833_frame_0001_0.png": {
+        "instruction": "Make the person open the container.",
+        "object": "container",
+        "object_bounding_box": [
+            556,
+            505,
+            670,
+            645
+        ],
+        "subject_bounding_box": [
+            369,
+            0,
+            888,
+            569
+        ],
+        "generated_question": "Has the person in the blue bounding box opened the container in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Has the container been opened?"
+        ],
+        "tag": [
+            "L2-morphology-non_rigid_change"
+        ],
+        "tags_v6": "L1-interaction-relation_occur, L3-non_rigid_change",
+        "question_v6": [
+            "Is the lid separated from the container?"
+        ]
+    },
+    "2YDZSXku-j8-0:01:14.774-0:01:33.493_frame_0003_561.png": {
+        "instruction": "Make the person open the box",
+        "object": "box",
+        "object_bounding_box": [
+            59,
+            173,
+            608,
+            698
+        ],
+        "subject_bounding_box": [
+            456,
+            135,
+            910,
+            718
+        ],
+        "generated_question": "Has the person in the blue bounding box opened the box in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Has the box been opened?"
+        ],
+        "tag": [
+            "L2-morphology-non_rigid_change\""
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L3-non_rigid_change",
+        "question_v6": [
+            "Has the box been opened?"
+        ]
+    },
+    "7qhXWFDL-CY-0:00:58.850-0:01:06.524_frame_0002_96.png": {
+        "instruction": "Make the person stir the eggs in the bowl with the whisk",
+        "object": " eggs in the bowl ",
+        "object_bounding_box": [
+            580,
+            561,
+            808,
+            695
+        ],
+        "subject_bounding_box": [
+            407,
+            39,
+            905,
+            665
+        ],
+        "generated_question": "Has the person in the blue bounding box stirred the eggs in the bowl in the red bounding box?",
+        "tool_bboxes": [
+            480,
+            633,
+            573,
+            708
+        ],
+        "tools": " whisk",
+        "question": [
+            "Have the eggs in the bowl been stirred into egg liquid?",
+            "Has the whisk been used to stir eggs in the bowl?"
+        ],
+        "tag": [
+            "L2-morphology-non_rigid_change",
+            "L2-tool-already_interacted"
+        ],
+        "tags_v6": "L1-interaction-relation_occur, L3-non_rigid_change",
+        "question_v6": [
+            "Have the eggs in the bowl been stirred into egg liquid?"
+        ]
+    },
+    "HxniJfM3E6k-0:00:29.095-0:00:33.133_frame_0002_65.png": {
+        "instruction": "Make the person close the laptop",
+        "object": "laptop",
+        "object_bounding_box": [
+            668,
+            250,
+            1184,
+            645
+        ],
+        "subject_bounding_box": [
+            189,
+            0,
+            934,
+            627
+        ],
+        "generated_question": "Has the person in the blue bounding box closed the laptop in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Has the screen of the laptop gone dark?"
+        ],
+        "tag": [
+            "L2-morphology-non_rigid_change"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L3-non_rigid_change",
+        "question_v6": [
+            "Has the screen of the laptop gone dark?"
+        ]
+    },
+    "20376169_resize1080p_scene-8_frame_0002_27.png": {
+        "instruction": "Make the person pour water into the coffee dripper",
+        "object": "coffee dripper",
+        "object_bounding_box": [
+            242.4962852897474,
+            426.50817236255574,
+            793.1054977711739,
+            1493.4918276374442
+        ],
+        "subject_bounding_box": [
+            666,
+            1,
+            1077,
+            952
+        ],
+        "generated_question": "Has the person in the blue bounding box poured water into the coffee dripper in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Has the water been poured into the coffee dripper?"
+        ],
+        "tag": [
+            "L2-morphology-non_rigid_change"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L3-non_rigid_change",
+        "question_v6": [
+            "Has the water been poured into the coffee dripper?"
+        ]
+    },
+    "ZRlkbRjt0HQ-0:12:15.067-0:13:03.115_frame_0002_577.png": {
+        "instruction": "Make the person eat the food on the plate",
+        "object": "food",
+        "object_bounding_box": [
+            770,
+            656,
+            1110,
+            719
+        ],
+        "subject_bounding_box": [
+            0,
+            14,
+            1005,
+            718
+        ],
+        "generated_question": "Has the person in the blue bounding box eaten the food in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Has the person picked up the food?"
+        ],
+        "tag": [
+            "L3-reasoning_process"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L3-non_rigid_change, L3-reasoning_process",
+        "question_v6": [
+            "Is the person eating the food?",
+            "Has the person picked up the food?"
+        ]
+    },
+    "AC4gtihpkUM-0:00:36.736-0:00:41.591_frame_0003_147.png": {
+        "instruction": "Make the person pour water from the blue bucket in the grey busket",
+        "object": "bucket",
+        "object_bounding_box": [
+            1064,
+            106,
+            1279,
+            394
+        ],
+        "subject_bounding_box": [
+            711,
+            1,
+            1194,
+            717
+        ],
+        "generated_question": "Has the person in the blue bounding box poured the bucket in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Has the water poured into the grey busket from the blue bucket?",
+            "Is there water in the grey busket?"
+        ],
+        "tag": [
+            "L2-location_understanding-specific_pos",
+            "L2-morphology-non_rigid_change"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L2-location_understanding-specific_pos_end, L3-non_rigid_change",
+        "question_v6": [
+            "Has the water poured into the grey busket from the blue bucket?",
+            "Has water flow from the blue bucket into the grey busket?"
+        ]
+    },
+    "uh3mZHpdj1E-0:07:13.683-0:07:27.697_frame_0002_174.png": {
+        "instruction": "Make the person eat the food in the container",
+        "object": "container with food",
+        "object_bounding_box": [
+            527,
+            554,
+            642,
+            629
+        ],
+        "subject_bounding_box": [
+            440,
+            110,
+            810,
+            718
+        ],
+        "generated_question": "Has the person in the blue bounding box eaten the container with food in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Is the container opened"
+        ],
+        "tag": [
+            "L3-reasoning_process"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L3-non_rigid_change, L3-reasoning_process",
+        "question_v6": [
+            "Is the woman eating the food in the container?",
+            "Is the container opened"
+        ]
+    },
+    "GrUb2WgVr34-0:09:10.316-0:09:17.723_frame_0002_106.png": {
+        "instruction": "Make the person file the wood",
+        "object": "wood",
+        "object_bounding_box": [
+            201,
+            1,
+            973,
+            717
+        ],
+        "subject_bounding_box": [
+            0,
+            0,
+            954,
+            720
+        ],
+        "generated_question": "Has the person in the blue bounding box filed the wood in the red bounding box?",
+        "tool_bboxes": [
+            1012,
+            58,
+            1131,
+            366
+        ],
+        "tools": "file",
+        "question": [
+            "Has the person used the file on the table?"
+        ],
+        "tag": [
+            "L3-reasoning_process"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L3-reasoning_process",
+        "question_v6": [
+            "Has the person used the file on the table?"
+        ]
+    },
+    "NtYNYlvaEJI-0:03:04.851-0:03:09.422_frame_0003_136.png": {
+        "instruction": "Make the person pour juice the can into the left glass",
+        "object": "can",
+        "object_bounding_box": [
+            328.97196261682245,
+            8.97196261682243,
+            596.9345794392524,
+            135.77570093457945
+        ],
+        "subject_bounding_box": [
+            410.31775700934577,
+            1.794392523364486,
+            628.0373831775701,
+            79.55140186915888
+        ],
+        "generated_question": "Has the person in the blue bounding box poured the can in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Has the juice in the can been poured into the left glass?",
+            "Is ther juice in the left glass?"
+        ],
+        "tag": [
+            "L2-location_understanding-specific_pos",
+            "L2-morphology-non_rigid_change"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L2-location_understanding-specific_pos_end, L3-non_rigid_change",
+        "question_v6": [
+            "Has the juice in the can been poured into the left glass?",
+            "Is there more juice in the left glass?"
+        ]
+    },
+    "8870667_resize1080p_scene-4_frame_0003_64.png": {
+        "instruction": "Make the person roll the dough",
+        "object": "dough",
+        "object_bounding_box": [
+            408,
+            762,
+            606,
+            829
+        ],
+        "subject_bounding_box": [
+            486,
+            136,
+            962,
+            843
+        ],
+        "generated_question": "Has the person in the blue bounding box rolled the dough in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "rolling pin",
+        "question": [
+            "Has the person rolled the dough with the rolling pin on her left?"
+        ],
+        "tag": [
+            "L3-reasoning_process"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L3-non_rigid_change, L3-reasoning_process",
+        "question_v6": [
+            "Has the dough been rolled into flat shapes?",
+            "Has the person rolled the dough with the rolling pin in the yellow bounding box?"
+        ]
+    },
+    "83s1fljoqUM-0:07:56.601-0:08:01.731_frame_0003_124.png": {
+        "instruction": "Make the person bite the snake",
+        "object": "snake",
+        "object_bounding_box": [
+            805,
+            157,
+            963,
+            347
+        ],
+        "subject_bounding_box": [
+            240,
+            28,
+            961,
+            718
+        ],
+        "generated_question": "Has the person in the blue bounding box bitten the snake in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Has the snake been bitten?"
+        ],
+        "tag": [
+            "L2-morphology-non_rigid_change"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L3-non_rigid_change",
+        "question_v6": [
+            "Has the snake been bitten?"
+        ]
+    },
+    "5804950_resize1080p_scene-5_frame_0002_30.png": {
+        "instruction": "Make the person eat the cake",
+        "object": "cake",
+        "object_bounding_box": [
+            902,
+            749,
+            1057,
+            866
+        ],
+        "subject_bounding_box": [
+            758,
+            277,
+            1060,
+            797
+        ],
+        "generated_question": "Has the person in the blue bounding box eaten the cake in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Has the person put down the red plastic cup ?"
+        ],
+        "tag": [
+            "L3-reasoning_process"
+        ],
+        "tags_v6": "L1-interaction-relation_occur, L3-non_rigid_change, L3-reasoning_process",
+        "question_v6": [
+            "Has the person ate the cake?",
+            "Has all the red plastic cups been put down?"
+        ]
+    },
+    "pDQ5nsqr-y4-0:00:37.670-0:00:43.843_frame_0003_186.png": {
+        "instruction": "Make the person clean the colorful carpet",
+        "object": "colorful carpet",
+        "object_bounding_box": [
+            1,
+            180,
+            674,
+            719
+        ],
+        "subject_bounding_box": [
+            1,
+            1,
+            666,
+            718
+        ],
+        "generated_question": "Has the person in the blue bounding box cleaned the colorful carpet in the red bounding box?",
+        "tool_bboxes": [
+            370,
+            0,
+            1023,
+            720
+        ],
+        "tools": " vacuum cleaner",
+        "question": [
+            "Has the person cleaned the colorful carpet with the vacuum cleaner?"
+        ],
+        "tag": [
+            "L3-reasoning_process"
+        ],
+        "tags_v6": "L1-interaction-relation_occur, L3-reasoning_process",
+        "question_v6": [
+            "Has the person cleaned the colorful carpet with the vacuum cleaner?"
+        ]
+    },
+    "RQADD0y2zJ8-0:00:44.611-0:01:32.659_frame_0001_0.png": {
+        "instruction": "Make the person look at the flower behind her on the counter",
+        "object": "flower",
+        "object_bounding_box": [
+            215,
+            378,
+            408,
+            501
+        ],
+        "subject_bounding_box": [
+            289,
+            0,
+            1034,
+            717
+        ],
+        "generated_question": "Has the person in the blue bounding box turned back and looked at the flower in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Has the person turned back to look at the flower behind her on the counter?"
+        ],
+        "tag": [
+            "L3-reasoning_process"
+        ],
+        "tags_v6": "L1-interaction-relation_occur, L3-reasoning_process",
+        "question_v6": [
+            "Has the person turned back to look at the flower behind her on the counter?"
+        ]
+    },
+    "M-St2eaUrNM-0:01:09.444-0:01:13.448_frame_0002_44.png": {
+        "instruction": "Make the person polish the metal object.",
+        "object": "metal object",
+        "object_bounding_box": [
+            590,
+            310,
+            891,
+            430
+        ],
+        "subject_bounding_box": [
+            572,
+            146,
+            1277,
+            717
+        ],
+        "generated_question": "Has the person in the blue bounding box used the buffing wheel to polish the metal object in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "polisher ",
+        "question": [
+            "Has the person polished the metal object with a polisher and produced sparks?"
+        ],
+        "tag": [
+            "L3-reasoning_process"
+        ],
+        "tags_v6": "L1-interaction-relation_occur, L3-non_rigid_change, L3-reasoning_process",
+        "question_v6": [
+            "Are there sparks from polishing in the picture?",
+            "Has the person polished the metal object with a polisher?"
+        ]
+    },
+    "yymnnpy3gWE-0:00:30.597-0:01:18.645_frame_0001_4.png": {
+        "instruction": "Make the person use the spray can on the table to spray the wrapping paper",
+        "object": "wrapping paper",
+        "object_bounding_box": [
+            263,
+            471,
+            1181,
+            718
+        ],
+        "subject_bounding_box": [
+            455,
+            75,
+            927,
+            644
+        ],
+        "generated_question": "Has the person in the blue bounding box sprayed the wrapping paper in the red bounding box?",
+        "tool_bboxes": [
+            649,
+            530,
+            728,
+            714
+        ],
+        "tools": "spray can",
+        "question": [
+            "Has the person used the spray can on the table"
+        ],
+        "tag": [
+            "L3-reasoning_process"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L2-location_understanding-specific_pos_end, L3-reasoning_process",
+        "question_v6": [
+            "Has the spray on the table been used to spray the wrapping paper?",
+            "Has the person used the spray can in the yellow bounding box?"
+        ]
+    },
+    "pMKNtzzL0_o-0:00:47.200-0:00:49.480_frame_0003_58.png": {
+        "instruction": "Make the person use the funnel to pour something into the jar",
+        "object": "jar",
+        "object_bounding_box": [
+            300,
+            180,
+            570,
+            611
+        ],
+        "subject_bounding_box": [
+            1,
+            2,
+            691,
+            576
+        ],
+        "generated_question": "Has the person in the blue bounding box poured something into the jar in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Have something been poured into the jar?",
+            "Is there something flowing into the jar?"
+        ],
+        "tag": [
+            "L2-location_understanding-specific_pos",
+            "L2-morphology-non_rigid_change"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L2-location_understanding-specific_pos_end, L3-non_rigid_change",
+        "question_v6": [
+            "Have something been poured into the jar?",
+            "Are there something been poured into the jar?"
+        ]
+    },
+    "6979924_resize1080p_scene-7_frame_0003_60.png": {
+        "instruction": "Make the person break the typewritter with coffee",
+        "object": "typewriter",
+        "object_bounding_box": [
+            895,
+            564,
+            1133,
+            707
+        ],
+        "subject_bounding_box": [
+            466,
+            315,
+            960,
+            1077
+        ],
+        "generated_question": "Has the person in the blue bounding box poured the coffee onto the typewriter in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "mug",
+        "question": [
+            "Has the person pour the coffee from the mug onto the typewriter"
+        ],
+        "tag": [
+            "L3-reasoning_process"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L2-location_understanding-specific_pos_end, L3-reasoning_process",
+        "question_v6": [
+            "Has the person pour the coffee from the mug onto the typewriter",
+            "Has the coffee from the mug been spilled onto the typewriter?",
+            ""
+        ]
+    },
+    "OWuAswyG8_g-0:07:16.736-0:07:20.506_frame_0001_0.png": {
+        "instruction": "Make the person close the sketchbook",
+        "object": "sketchbook",
+        "object_bounding_box": [
+            414,
+            519,
+            905,
+            663
+        ],
+        "subject_bounding_box": [
+            481,
+            8,
+            935,
+            545
+        ],
+        "generated_question": "Has the person in the blue bounding box closed the sketchbook in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Has the sketchbook been closed?"
+        ],
+        "tag": [
+            "L2-morphology-non_rigid_change"
+        ],
+        "tags_v6": "L3-non_rigid_change",
+        "question_v6": [
+            "Has the sketchbook been closed?"
+        ]
+    },
+    "hakvyGKJSI4-0:03:25.246-0:03:44.140_frame_0002_229.png": {
+        "instruction": "Make the person take a book out of the backpack",
+        "object": "backpack",
+        "object_bounding_box": [
+            1,
+            168,
+            579,
+            716
+        ],
+        "subject_bounding_box": [
+            312,
+            71,
+            1114,
+            718
+        ],
+        "generated_question": "Has the person in the blue bounding box taken a book out of the backpack in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Has the person opened the bag"
+        ],
+        "tag": [
+            "L3-reasoning_process"
+        ],
+        "tags_v6": "L3-reasoning_process",
+        "question_v6": [
+            "Has the person opened the bag"
+        ]
+    },
+    "D10eq91tJvE-0:08:07.361-0:08:15.369_frame_0001_0.png": {
+        "instruction": "Make the person lie and sleep",
+        "object": "bed",
+        "object_bounding_box": [
+            0,
+            136,
+            1134,
+            718
+        ],
+        "subject_bounding_box": [
+            305,
+            15,
+            1049,
+            717
+        ],
+        "generated_question": "Has the person in the blue bounding box lain down on the bed in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Is the person lying on the bed"
+        ],
+        "tag": [
+            "L3-reasoning_process"
+        ],
+        "tags_v6": "L1-interaction-relation_occur, L3-reasoning_process",
+        "question_v6": [
+            "Is the person lying on the bed"
+        ]
+    },
+    "k7BygHbdpTA-0:00:35.000-0:00:42.040_frame_0002_84.png": {
+        "instruction": "Make the person turn off his phone",
+        "object": "smartphone",
+        "object_bounding_box": [
+            493,
+            89,
+            779,
+            648
+        ],
+        "subject_bounding_box": [
+            1,
+            272,
+            839,
+            718
+        ],
+        "generated_question": "Has the person in the blue bounding box turned off the smartphone in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Has the screen of the phone gone dark?"
+        ],
+        "tag": [
+            "L2-morphology-non_rigid_change"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L3-non_rigid_change",
+        "question_v6": [
+            "Has the screen of the phone gone dark?"
+        ]
+    },
+    "18599775_resize1080p_scene-3_frame_0003_59.png": {
+        "instruction": "Make the person place the object on the ground.",
+        "object": "glowing object",
+        "object_bounding_box": [
+            683,
+            546,
+            859,
+            614
+        ],
+        "subject_bounding_box": [
+            550,
+            241,
+            827,
+            864
+        ],
+        "generated_question": "Has the person in the blue bounding box placed the glowing object in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Has the woman bent down?"
+        ],
+        "tag": [
+            "L3-reasoning_process"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L2-location_understanding-specific_pos_end, L3-reasoning_process",
+        "question_v6": [
+            "Has the glowing object been placed on the ground?",
+            "Has the person bent or squatted?"
+        ]
+    },
+    "98Q_IB0ZGOA-0:03:02.315-0:03:04.350_frame_0002_32.png": {
+        "instruction": "Make the person put the tablet in his hand on the table",
+        "object": "tablet",
+        "object_bounding_box": [
+            905,
+            460,
+            1210,
+            720
+        ],
+        "subject_bounding_box": [
+            388,
+            36,
+            1100,
+            718
+        ],
+        "generated_question": "Has the person in the blue bounding box put the tablet in his hand on the table?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Has the person turned around?"
+        ],
+        "tag": [
+            "L3-reasoning_process"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L2-location_understanding-specific_pos_end, L3-reasoning_process",
+        "question_v6": [
+            "Has the man turned toward the computer desk?",
+            "Has the tablet been put on the table?"
+        ]
+    },
+    "8411368_resize1080p_scene-6_frame_0002_28.png": {
+        "instruction": "Make the person put the blue boots into the white shoe box",
+        "object": "blue boots",
+        "object_bounding_box": [
+            816,
+            365,
+            1070,
+            565
+        ],
+        "subject_bounding_box": [
+            687,
+            253,
+            1276,
+            956
+        ],
+        "generated_question": "Has the person in the blue bounding box put the blue boots in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Has the person opened the lid of the white shoe box?"
+        ],
+        "tag": [
+            "L3-reasoning_process"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L1-interaction-relation_occur, L2-location_understanding-specific_pos_end, L3-reasoning_process",
+        "question_v6": [
+            "Has the person opened the lid of the white shoe box?",
+            "Has the lid of the white shoe box been opened?"
+        ]
+    },
+    "IEnhHAa6_qk-0:00:16.850-0:00:24.858_frame_0001_5.png": {
+        "instruction": "Make the person pick the glass bowl from the shelf.",
+        "object": "glass bowl ",
+        "object_bounding_box": [
+            160,
+            155,
+            319,
+            261
+        ],
+        "subject_bounding_box": [
+            261,
+            150,
+            979,
+            719
+        ],
+        "generated_question": "Has the person in the blue bounding box picked the glass bowl in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Has the person turned around to take the glass bowl from the shelf?"
+        ],
+        "tag": [
+            "L3-reasoning_process"
+        ],
+        "tags_v6": "L1-interaction-relation_occur, L3-reasoning_process",
+        "question_v6": [
+            "Did the man turn toward the closet??"
+        ]
+    },
+    "x7g_DiZZPa4-0:05:18.551-0:05:24.457_frame_0001_0.png": {
+        "instruction": "Make the person take the rightmost vase from the group of vases on the shelf.",
+        "object": "vase",
+        "object_bounding_box": [
+            948,
+            109,
+            997,
+            203
+        ],
+        "subject_bounding_box": [
+            343,
+            0,
+            848,
+            693
+        ],
+        "generated_question": "Has the person in the blue bounding box taken the vase in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Has the person turned around to take the vase from the shelf?"
+        ],
+        "tag": [
+            "L3-reasoning_process"
+        ],
+        "tags_v6": "L1-interaction-relation_occur, L3-reasoning_process",
+        "question_v6": [
+            "Has the person turned around to take the vase from the shelf?"
+        ]
+    },
+    "qnFWCagTOtw-0:00:50.800-0:00:54.179_frame_0001_0.png": {
+        "instruction": "Make the person drink the champagne flute from the table.",
+        "object": "champagne flute",
+        "object_bounding_box": [
+            101,
+            392,
+            172,
+            624
+        ],
+        "subject_bounding_box": [
+            471,
+            47,
+            990,
+            717
+        ],
+        "generated_question": "Has the person in the blue bounding box drunk from the champagne flute in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Has the person picked up the Champagne Flute?"
+        ],
+        "tag": [
+            "L3-reasoning_process"
+        ],
+        "tags_v6": "L1-interaction-relation_occur, L3-reasoning_process",
+        "question_v6": [
+            "Has the person picked up the Champagne Flute?"
+        ]
+    },
+    "4O0xpO4l8Q0-0:03:17.463-0:03:38.918_frame_0002_325.png": {
+        "instruction": "Make the person use the leg extension machine to straighten their legs",
+        "object": "leg extension machine",
+        "object_bounding_box": [
+            472,
+            92,
+            1128,
+            716
+        ],
+        "subject_bounding_box": [
+            493,
+            0,
+            1138,
+            531
+        ],
+        "generated_question": "Has the person in the blue bounding box used the leg extension machine in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Have their legs been straightened?"
+        ],
+        "tag": [
+            "L2-morphology-non_rigid_change"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L3-non_rigid_change",
+        "question_v6": [
+            "Have their legs been straightened?"
+        ]
+    },
+    "8154492_resize1080p_scene-8_frame_0001_0.png": {
+        "instruction": "Make the person rinse the toothbrush with water",
+        "object": "toothbrush",
+        "object_bounding_box": [
+            821,
+            773,
+            1022,
+            1036
+        ],
+        "subject_bounding_box": [
+            691,
+            87,
+            1731,
+            1076
+        ],
+        "generated_question": "Has the person in the blue bounding box rinsed the toothbrush in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": "",
+        "tag": [
+            "L2-location_understanding-specific_pos",
+            "L2-morphology-non_rigid_change"
+        ],
+        "tags_v6": "L1-interaction-relation_occur, L3-non_rigid_change",
+        "question_v6": "Is water flowing out of the faucet?"
+    },
+    "UNym1GX3TNU-0:04:08.040-0:04:10.600_frame_0001_4.png": {
+        "instruction": "Make the person pour the oil from the bottle into the frying pan",
+        "object": "oil bottle",
+        "object_bounding_box": [
+            133,
+            1,
+            603,
+            308
+        ],
+        "subject_bounding_box": [
+            1,
+            0,
+            649,
+            472
+        ],
+        "generated_question": "Has the person in the blue bounding box poured the oil bottle in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": "",
+        "tag": [
+            "L2-location_understanding-specific_pos",
+            "L2-morphology-non_rigid_change"
+        ],
+        "tags_v6": "L2-location_understanding-specific_pos_end, L3-non_rigid_change",
+        "question_v6": [
+            "Has the oil been poured into the frying pan?",
+            "Is oil flowing out of the bottle?"
+        ]
+    },
+    "-mSYh_hpD2E-0:03:07.228-0:03:09.606_first_third_frame14_blur42.6.png": {
+        "instruction": "Make the person turn on the fire of the stove.",
+        "object": "stove",
+        "object_bounding_box": [
+            144,
+            501,
+            448,
+            649
+        ],
+        "subject_bounding_box": [
+            427,
+            8,
+            1189,
+            717
+        ],
+        "generated_question": "Has the person in the blue bounding box turned on the stove in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Is the person facing the stove?"
+        ],
+        "tag": [
+            "L3-reasoning_process"
+        ],
+        "tags_v6": "L1-interaction-relation_occur, L3-non_rigid_change, L3-reasoning_process",
+        "question_v6": [
+            "Is there any fire on the stove?",
+            "Is the person facing the stove?"
+        ]
+    },
+    "0Xmx29H36Ho-0:12:53.600-0:12:57.166_first_third_frame21_blur264.1.png": {
+        "instruction": "Make the person open the door of the right dishwasher.",
+        "object": "dishwasher",
+        "object_bounding_box": [
+            907,
+            372,
+            1250,
+            717
+        ],
+        "subject_bounding_box": [
+            36,
+            10,
+            438,
+            717
+        ],
+        "generated_question": "Has the person in the blue bounding box opened the dishwasher in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Is the person standing next to the dishwasher?"
+        ],
+        "tag": [
+            "L3-reasoning_process"
+        ],
+        "tags_v6": "L1-interaction-relation_occur, L3-non_rigid_change, L3-reasoning_process",
+        "question_v6": [
+            "Is the door of the dishwasher open?",
+            "Is the person standing next to the dishwasher?"
+        ]
+    },
+    "12005348_resize1080p_scene-2_first_third_frame0_blur91.1.png": {
+        "instruction": "Make the person check the food in the pot.",
+        "object": "pot",
+        "object_bounding_box": [
+            1034,
+            710,
+            1206,
+            840
+        ],
+        "subject_bounding_box": [
+            286,
+            152,
+            936,
+            872
+        ],
+        "generated_question": "Has the person in the blue bounding box checked the pot in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Has the person lift the lid of the pot?"
+        ],
+        "tag": [
+            "L3-reasoning_process"
+        ],
+        "tags_v6": "L1-interaction-relation_occur, L3-reasoning_process",
+        "question_v6": [
+            "Has the person lift the lid of the pot?"
+        ]
+    },
+    "26GZT6e_7E0-0:02:03.248-0:02:06.709_last_third_frame84_blur50.6.png": {
+        "instruction": "Make the person stuff the game console into the carton.",
+        "object": "game console ",
+        "object_bounding_box": [
+            315,
+            230,
+            539,
+            420
+        ],
+        "subject_bounding_box": [
+            334,
+            2,
+            1273,
+            717
+        ],
+        "generated_question": "Has the person in the blue bounding box stuffed the game console in the red bounding box?",
+        "tool_bboxes": [
+            55,
+            454,
+            347,
+            704
+        ],
+        "tools": "carton",
+        "question": [
+            "Is the carton opened"
+        ],
+        "tag": [
+            "L3-reasoning_process"
+        ],
+        "tags_v6": "L3-reasoning_process",
+        "question_v6": [
+            "Is the carton opened"
+        ]
+    },
+    "4620907_resize1080p_scene-13_middle_third_frame38_blur107.3.png": {
+        "instruction": "Make the woman face the camera and turn off the camera.",
+        "object": "camera",
+        "object_bounding_box": [
+            870,
+            568,
+            1120,
+            788
+        ],
+        "subject_bounding_box": [
+            799,
+            101,
+            1096,
+            815
+        ],
+        "generated_question": "Has the person in the blue bounding box turned off the camera in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Is the woman facing the camera?"
+        ],
+        "tag": [
+            "L3-reasoning_process"
+        ],
+        "tags_v6": "L1-interaction-relation_occur, L3-reasoning_process",
+        "question_v6": [
+            "Is the woman facing and touching the camera?"
+        ]
+    },
+    "5197680_resize1080p_scene-9_first_third_frame0_blur65.5.png": {
+        "instruction": "Make the person smell the green apples inside the bowl on the table without moving the apples and the bowl",
+        "object": "green apples",
+        "object_bounding_box": [
+            1570,
+            548,
+            1834,
+            764
+        ],
+        "subject_bounding_box": [
+            447,
+            183,
+            1320,
+            1075
+        ],
+        "generated_question": "Has the person in the blue bounding box smelled the green apples inside the bowl on the table in the red bounding box without moving the apples and the bowl?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Has the person left the sofa?",
+            "Is the person standing next to the table?"
+        ],
+        "tag": [
+            "L3-reasoning_process"
+        ],
+        "tags_v6": "L1-interaction-relation_occur, L3-reasoning_process",
+        "question_v6": [
+            "Is the person's face next to the apples?"
+        ]
+    },
+    "5436166_resize1080p_scene-2_middle_third_frame22_blur26.2.png": {
+        "instruction": "Make the person drink the juice in the glass.",
+        "object": "glass",
+        "object_bounding_box": [
+            328,
+            836,
+            540,
+            1179
+        ],
+        "subject_bounding_box": [
+            16,
+            5,
+            1075,
+            1913
+        ],
+        "generated_question": "Is the person in the blue bounding box drinking the juice in the glass in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Has the person stopped pouring from the blender container"
+        ],
+        "tag": [
+            "L3-reasoning_process"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L3-reasoning_process",
+        "question_v6": [
+            "Has the person stopped pouring from the blender container"
+        ]
+    },
+    "5ftpeQJVbT0-0:05:47.889-0:05:50.516_middle_third_frame28_blur89.3.png": {
+        "instruction": "Make the person eat the bread in the packaging bag.",
+        "object": "bread",
+        "object_bounding_box": [
+            176,
+            389,
+            493,
+            715
+        ],
+        "subject_bounding_box": [
+            171,
+            95,
+            897,
+            717
+        ],
+        "generated_question": "Is the person in the blue bounding box eating the bread in the packaging bag in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Is the packaging bag opened?"
+        ],
+        "tag": [
+            "L3-reasoning_process"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L3-reasoning_process",
+        "question_v6": [
+            "Is the packaging bag opened?"
+        ]
+    },
+    "6730603_resize1080p_scene-5_first_third_frame0_blur23.7.png": {
+        "instruction": "Make the man hang the apron on the easel.",
+        "object": "apron",
+        "object_bounding_box": [
+            809,
+            226,
+            1133,
+            1078
+        ],
+        "subject_bounding_box": [
+            569,
+            44,
+            1128,
+            1061
+        ],
+        "generated_question": "Has the person in the blue bounding box hung the apron in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Has the man taken off the apron?"
+        ],
+        "tag": [
+            "L3-reasoning_process"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L3-reasoning_process",
+        "question_v6": [
+            "Has the man taken off the apron?"
+        ]
+    },
+    "ELnNKcFo22E-0:04:23.388-0:05:11.436_frame_0002_575.png": {
+        "instruction": "Make the person eat the food",
+        "object": "food",
+        "object_bounding_box": [
+            444,
+            592,
+            650,
+            670
+        ],
+        "subject_bounding_box": [
+            414,
+            1,
+            1046,
+            672
+        ],
+        "generated_question": "Has the person in the blue bounding box eaten the food in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Has the food been eaten?"
+        ],
+        "tag": [
+            "L2-morphology-non_rigid_change"
+        ],
+        "tags_v6": "L1-interaction-relation_occur, L3-non_rigid_change",
+        "question_v6": [
+            "Has the food been eaten?"
+        ]
+    },
+    "nQWLQigPxCk-0:05:48.614-0:05:51.167_frame_0002_37.png": {
+        "instruction": "Make the person use the spoon to eat the noodles",
+        "object": "bowl of noodles",
+        "object_bounding_box": [
+            543,
+            496,
+            816,
+            659
+        ],
+        "subject_bounding_box": [
+            542,
+            47,
+            1205,
+            696
+        ],
+        "generated_question": "Has the person in the blue bounding box eaten the bowl of noodles in the red bounding box?",
+        "tool_bboxes": [
+            383,
+            494,
+            504,
+            579
+        ],
+        "tools": "spoon",
+        "question": [
+            "Has the noodles been eaten?",
+            "Is the spoon in the yellow box used to eat noodles?"
+        ],
+        "tag": [
+            "L2-morphology-non_rigid_change",
+            "L2-tool-not_interacted"
+        ],
+        "tags_v6": "L1-interaction-relation_occur, L3-non_rigid_change",
+        "question_v6": [
+            "Has the noodles been eaten?"
+        ]
+    },
+    "GeOh7zWlXhg-0:05:47.747-0:05:59.425_frame_0003_350.png": {
+        "instruction": "Make the person write on the cardboard with the pen in his right hand",
+        "object": "cardboard",
+        "object_bounding_box": [
+            564,
+            200,
+            743,
+            720
+        ],
+        "subject_bounding_box": [
+            336,
+            144,
+            988,
+            718
+        ],
+        "generated_question": "Has the person in the blue bounding box written on the cardboard in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": "",
+        "tag": [
+            "L2-morphology-non_rigid_change"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L3-non_rigid_change",
+        "question_v6": "Is the board on the person's hand being written on, or does it have writing on it?"
+    },
+    "D_udKnvx6tQ-0:01:00.794-0:01:05.098_frame_0002_59.png": {
+        "instruction": "Make the person turn off the laptop",
+        "object": "laptop",
+        "object_bounding_box": [
+            110,
+            7,
+            1277,
+            718
+        ],
+        "subject_bounding_box": [
+            705,
+            218,
+            1278,
+            623
+        ],
+        "generated_question": "Has the person in the blue bounding box turn off the laptop in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": "",
+        "tag": [
+            "L2-morphology-non_rigid_change"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L3-non_rigid_change",
+        "question_v6": [
+            "Has the laptop screen been turned off?"
+        ]
+    },
+    "eDGkgxf3PoI-0:07:17.120-0:07:20.560_frame_0002_42.png": {
+        "instruction": "Make the person close the backgammon board",
+        "object": "backgammon board",
+        "object_bounding_box": [
+            519,
+            576,
+            1277,
+            717
+        ],
+        "subject_bounding_box": [
+            315,
+            91,
+            1025,
+            621
+        ],
+        "generated_question": "Has the person in the blue bounding box closed the backgammon board in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Has the backgammon board been closed?"
+        ],
+        "tag": [
+            "L2-morphology-non_rigid_change"
+        ],
+        "tags_v6": "L1-interaction-relation_occur, L3-non_rigid_change",
+        "question_v6": [
+            "Has the backgammon board been closed?"
+        ]
+    },
+    "18877220_resize1080p_scene-4_frame_0003_59.png": {
+        "instruction": "Make the person close the green folder in his left hand",
+        "object": "green folder",
+        "object_bounding_box": [
+            780,
+            445,
+            1080,
+            600
+        ],
+        "subject_bounding_box": [
+            681,
+            146,
+            1076,
+            772
+        ],
+        "generated_question": "Has the person in the blue bounding box closed the green folder in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": "",
+        "tag": [
+            "L2-morphology-non_rigid_change"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L3-non_rigid_change",
+        "question_v6": [
+            "Is the green folder closed?"
+        ]
+    },
+    "-i1BZUb9Yhg-0:00:50.720-0:00:54.840_middle_third_frame52_blur277.2.png": {
+        "instruction": "Make the man pick up the bowl containing minced meat with their left hand.",
+        "object": "bowl containing minced meat",
+        "object_bounding_box": [
+            645,
+            397,
+            907,
+            545
+        ],
+        "subject_bounding_box": [
+            396,
+            2,
+            1275,
+            516
+        ],
+        "generated_question": "Has the person in the blue bounding box picked up the bowl containing minced meat in the red bounding box?",
+        "tool_bboxes": [
+            518,
+            315,
+            721,
+            456
+        ],
+        "tools": "bowl with purple vegetables",
+        "question": [
+            "Has the bowl with purple vegetables been put down?"
+        ],
+        "tag": [
+            "L3-reasoning_process"
+        ],
+        "tags_v6": "L1-interaction-relation_occur, L3-reasoning_process",
+        "question_v6": [
+            "Has the bowl with purple vegetables been put down?"
+        ]
+    },
+    "09-5d8iYSFA-0:14:22.278-0:14:24.630_middle_third_frame32_blur19.2.png": {
+        "instruction": "Make person look in the mirror.",
+        "object": "mirror",
+        "object_bounding_box": [
+            791,
+            227,
+            1137,
+            719
+        ],
+        "subject_bounding_box": [
+            293,
+            109,
+            824,
+            718
+        ],
+        "generated_question": "Has the person in the blue bounding box looked in the mirror in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Has the person stand in front of the mirror?"
+        ],
+        "tag": [
+            "L3-reasoning_process"
+        ],
+        "tags_v6": "L1-interaction-relation_occur, L3-non_rigid_change, L3-reasoning_process",
+        "question_v6": [
+            "Is there a reflection of a person in the mirror?",
+            "Is the person facing the mirror?"
+        ]
+    },
+    "4QsnKsBTfos-0:04:02.033-0:04:04.619_last_third_frame50_blur99.2.png": {
+        "instruction": "Make the man type on the keyboard on the right table.",
+        "object": "Keyboard",
+        "object_bounding_box": [
+            1030,
+            416,
+            1277,
+            511
+        ],
+        "subject_bounding_box": [
+            226,
+            46,
+            939,
+            717
+        ],
+        "generated_question": "Has the person in the blue bounding box typed on the keyboard on the right table?",
+        "tool_bboxes": [
+            349,
+            330,
+            776,
+            484
+        ],
+        "tools": "",
+        "question": [
+            "Has the man put down the power strip?",
+            "Is the person standing or sitting next to the keyboard and typing on it?"
+        ],
+        "tag": [
+            "L3-reasoning_process"
+        ],
+        "tags_v6": "L1-interaction-relation_occur, L3-reasoning_process",
+        "question_v6": [
+            "Is the man sitting facing the table on the right?"
+        ]
+    },
+    "6549263_resize1080p_scene-4_middle_third_frame23_blur24.0.png": {
+        "instruction": "Make the woman check the documents in the right row.",
+        "object": "documents in the other row.",
+        "object_bounding_box": [
+            1606,
+            346,
+            1916,
+            1059
+        ],
+        "subject_bounding_box": [
+            463,
+            103,
+            1298,
+            1075
+        ],
+        "generated_question": "Has the person in the blue bounding box checked the documents in the other row in the red bounding box?",
+        "tool_bboxes": [
+            1614,
+            346,
+            1916,
+            1039
+        ],
+        "tools": "",
+        "question": [
+            "Is the person standing next to the other row."
+        ],
+        "tag": [
+            "L3-reasoning_process"
+        ],
+        "tags_v6": "L1-interaction-relation_occur, L3-reasoning_process",
+        "question_v6": [
+            "Is the person standing next to the other row."
+        ]
+    },
+    "9W-MtWKz5Ec-0:03:16.840-0:03:20.360_frame_0002_47.png": {
+        "instruction": "Make the person use the remote control to turn on the lamp",
+        "object": "lamp",
+        "object_bounding_box": [
+            245,
+            0,
+            423,
+            517
+        ],
+        "subject_bounding_box": [
+            370,
+            156,
+            875,
+            718
+        ],
+        "generated_question": "Has the person in the blue bounding box turned on the lamp in the red bounding box?",
+        "tool_bboxes": [
+            496,
+            477,
+            642,
+            587
+        ],
+        "tools": "",
+        "question": [
+            "Has the environment around the bulb dimmed?"
+        ],
+        "tag": [
+            "L2-morphology-non_rigid_change",
+            "L2-tool-already_interacted"
+        ],
+        "tags_v6": "L1-interaction-relation_occur, L3-non_rigid_change",
+        "question_v6": [
+            "Has the environment around the bulb dimmed?"
+        ]
+    },
+    "JBmIDysRvn4-0:13:52.560-0:14:07.080_frame_0001_0.png": {
+        "instruction": "Make the person clean the floor with the vacuum cleaner ",
+        "object": "vacuum cleaner",
+        "object_bounding_box": [
+            48,
+            0,
+            543,
+            619
+        ],
+        "subject_bounding_box": [
+            845,
+            0,
+            1135,
+            216
+        ],
+        "generated_question": "Has the person in the blue bounding box cleaned the floor with the vacuum cleaner in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Has the floor been cleaned already?"
+        ],
+        "tag": [
+            "L2-morphology-non_rigid_change"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L3-non_rigid_change",
+        "question_v6": [
+            "Has the floor been cleaned already?"
+        ]
+    },
+    "12322737_resize1080p_scene-0_frame_0002_27.png": {
+        "instruction": "Make the person pick up the top green potted plant next to the shelf",
+        "object": "potted plant",
+        "object_bounding_box": [
+            1655,
+            207,
+            1708,
+            292
+        ],
+        "subject_bounding_box": [
+            609,
+            67,
+            992,
+            1062
+        ],
+        "generated_question": "Has the person in the blue bounding box picked up the potted plant in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Has the person turned around to reach for the potted plant?"
+        ],
+        "tag": [
+            "L3-reasoning_process"
+        ],
+        "tags_v6": "L1-interaction-relation_occur, L3-reasoning_process",
+        "question_v6": [
+            "Has the person turned around to reach for the potted plant?"
+        ]
+    },
+    "f5EIgrep1lE-0:01:27.880-0:02:15.880_frame_0001_0.png": {
+        "instruction": "Make the person tie a knot with the rope",
+        "object": "rope",
+        "object_bounding_box": [
+            2,
+            302,
+            1022,
+            601
+        ],
+        "subject_bounding_box": [
+            76,
+            297,
+            1200,
+            717
+        ],
+        "generated_question": "Has the person in the blue bounding box tied a knot with the rope in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Has the knot in the rope been tied properly?"
+        ],
+        "tag": [
+            "L2-morphology-non_rigid_change"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L3-non_rigid_change",
+        "question_v6": [
+            "Has the knot in the rope been tied properly?"
+        ]
+    },
+    "rOy38LXzxDg-0:09:25.298-0:09:31.637_frame_0001_0.png": {
+        "instruction": "Make the person cut the piece of fabric closest to him with the scissor",
+        "object": "fabric",
+        "object_bounding_box": [
+            343,
+            286,
+            948,
+            507
+        ],
+        "subject_bounding_box": [
+            546.6915887850467,
+            2.9906542056074765,
+            1278.803738317757,
+            153.7196261682243
+        ],
+        "generated_question": "Has the person in the blue bounding box cut the fabric in the red bounding box?",
+        "tool_bboxes": [
+            271,
+            42,
+            621,
+            301
+        ],
+        "tools": "scissors",
+        "question": [
+            "Has the piece of fabric closest to the person been cut?",
+            "Is the scissor in the yellow box used to cut the piece of fabric closest to the person?",
+            "Is scissors in the yellow box used to cut the piece of fabric?"
+        ],
+        "tag": [
+            "L2-location_understanding-specific_pos",
+            "L2-morphology-non_rigid_change",
+            "L2-tool-not_interacted"
+        ],
+        "tags_v6": "L1-interaction-relation_occur, L2-location_understanding-specific_pos_initial, L3-non_rigid_change",
+        "question_v6": [
+            "Has the piece of fabric closest to the person been cut?"
+        ]
+    },
+    "1028-142624363_resize1080p_scene-2_middle_third_frame41_blur35.6.png": {
+        "instruction": "Make the person check the electric fan",
+        "object": "electric fan",
+        "object_bounding_box": [
+            6,
+            91,
+            638,
+            1078
+        ],
+        "subject_bounding_box": [
+            926,
+            3,
+            1910,
+            1068
+        ],
+        "generated_question": "Has the person in the blue bounding box checked the electric fan in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Is the person's face next to the electric fan?"
+        ],
+        "tag": [
+            "L3-reasoning_process"
+        ],
+        "tags_v6": "L1-interaction-relation_occur, L3-reasoning_process",
+        "question_v6": [
+            "Is the person's face next to the electric fan?"
+        ]
+    },
+    "BUL1Z4n2L4w-0:03:40.420-0:03:42.889_frame_0001_0.png": {
+        "instruction": "Make the person put the bacon into the pot with the thong",
+        "object": "bacon",
+        "object_bounding_box": [
+            490,
+            163,
+            793,
+            311
+        ],
+        "subject_bounding_box": [
+            370.8411214953271,
+            1.794392523364486,
+            1275.214953271028,
+            622.6542056074767
+        ],
+        "generated_question": "Has the person in the blue bounding box put the bacon in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Has the bacon been put into the pot with the thong?",
+            "Is there bacon in the pan already?"
+        ],
+        "tag": [
+            "L2-location_understanding-specific_pos",
+            "L2-morphology-non_rigid_change",
+            "L2-tool-already_interacted"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L2-location_understanding-specific_pos_end, L3-non_rigid_change",
+        "question_v6": [
+            "Has the bacon been put into the pot with the thong?",
+            "Is there bacon in the pan already?"
+        ]
+    },
+    "JC4em0OyiC0-0:01:25.920-0:01:28.040_frame_0002_28.png": {
+        "instruction": "Make the person tear the card",
+        "object": "card",
+        "object_bounding_box": [
+            368.4485981308411,
+            323.58878504672896,
+            809.8691588785047,
+            426.4672897196262
+        ],
+        "subject_bounding_box": [
+            375,
+            6,
+            983,
+            626
+        ],
+        "generated_question": "Has the person in the blue bounding box torn the card in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Has the card been torn into several small pieces?"
+        ],
+        "tag": [
+            "L2-morphology-non_rigid_change"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L3-non_rigid_change",
+        "question_v6": [
+            "Has the card been torn into several small pieces?"
+        ]
+    },
+    "5893945_resize1080p_scene-0_frame_0003_60.png": {
+        "instruction": "Make the person paint on the purple painting among the artworks on the wall.",
+        "object": "painting",
+        "object_bounding_box": [
+            954,
+            152,
+            1244,
+            573
+        ],
+        "subject_bounding_box": [
+            703,
+            169,
+            1148,
+            1077
+        ],
+        "generated_question": "Has the person in the blue bounding box painted the painting in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Has the person turn back"
+        ],
+        "tag": [
+            "L3-reasoning_process"
+        ],
+        "tags_v6": "L1-interaction-relation_occur, L3-reasoning_process",
+        "question_v6": [
+            "Has the woman turned toward the wall?"
+        ]
+    },
+    "4731506_resize1080p_scene-2_middle_third_frame32_blur119.7.png": {
+        "instruction": "Make the man bend down to lean inside car to check the seat.",
+        "object": "car",
+        "object_bounding_box": [
+            10,
+            437,
+            1913,
+            1068
+        ],
+        "subject_bounding_box": [
+            460,
+            139,
+            1627,
+            1075
+        ],
+        "generated_question": "Has the person in the blue bounding box bent down to lean inside the car in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Is the driver's side door of the vehicle open?",
+            "Is the man next to the vehicle's cockpit?"
+        ],
+        "tag": [
+            "L3-reasoning_process"
+        ],
+        "tags_v6": "L1-interaction-relation_occur, L3-reasoning_process",
+        "question_v6": [
+            "Is the man next to the vehicle's cockpit?"
+        ]
+    },
+    "ymXJbUcmuE4-0:04:31.000-0:04:34.180_frame_0002_37.png": {
+        "instruction": "Make the person use a pen to write on the paper",
+        "object": "paper",
+        "object_bounding_box": [
+            454,
+            557,
+            682,
+            641
+        ],
+        "subject_bounding_box": [
+            392,
+            53,
+            1058,
+            612
+        ],
+        "generated_question": "Has the person in the blue bounding box written on the paper in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Has there been fountain pen marks on the paper?"
+        ],
+        "tag": [
+            "L2-morphology-non_rigid_change"
+        ],
+        "tags_v6": "L3-non_rigid_change",
+        "question_v6": [
+            "Has there been fountain pen marks on the paper?"
+        ]
+    },
+    "EsaTyAI2qxs-0:05:52.518-0:05:54.729_frame_0002_26.png": {
+        "instruction": "Make the person stir the cream in the bowl with the stick",
+        "object": "cream",
+        "object_bounding_box": [
+            825,
+            337,
+            1050,
+            528
+        ],
+        "subject_bounding_box": [
+            542,
+            391,
+            1278,
+            717
+        ],
+        "generated_question": "Has the person in the blue bounding box stirred the cream in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Has the cream in the bowl been stirred evenly?"
+        ],
+        "tag": [
+            "L2-morphology-non_rigid_change",
+            "L2-tool-already_interacted"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L3-non_rigid_change",
+        "question_v6": [
+            "Has the cream in the bowl been stirred evenly?"
+        ]
+    },
+    "4705784_resize1080p_scene-2_last_third_frame48_blur40.9.png": {
+        "instruction": "Make the man play the guitar.",
+        "object": "",
+        "object_bounding_box": [
+            479,
+            615,
+            1561,
+            1008
+        ],
+        "subject_bounding_box": [
+            558,
+            15,
+            1621,
+            1037
+        ],
+        "generated_question": "Has the person in the blue bounding box played the the object in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Has the pencil been put down on the table"
+        ],
+        "tag": [
+            "L3-reasoning_process"
+        ],
+        "tags_v6": "L3-reasoning_process",
+        "question_v6": [
+            "Has the pencil been put down on the table"
+        ]
+    },
+    "6953260_resize1080p_scene-0_frame_0002_31.png": {
+        "instruction": "Make the person eat the cracker",
+        "object": "cracker",
+        "object_bounding_box": [
+            468,
+            1254,
+            590,
+            1315
+        ],
+        "subject_bounding_box": [
+            3,
+            835,
+            1077,
+            1982
+        ],
+        "generated_question": "Has the person in the blue bounding box eaten the cracker in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Is the cracker being eaten?"
+        ],
+        "tag": [
+            "L2-morphology-non_rigid_change"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L3-non_rigid_change",
+        "question_v6": [
+            "Has the cracker been eaten?"
+        ]
+    },
+    "wB9ywJHeFtw-0:01:18.578-0:01:20.997_frame_0001_4.png": {
+        "instruction": "Make the person stir the white cream sauce in the bowl with his left hand fingers",
+        "object": "bowl",
+        "object_bounding_box": [
+            585,
+            264,
+            754,
+            434
+        ],
+        "subject_bounding_box": [
+            142,
+            327,
+            933,
+            718
+        ],
+        "generated_question": "Has the person in the blue bounding box stirred the bowl in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Has the white cream sauce in the bowl been stirred evenly?"
+        ],
+        "tag": [
+            "L2-morphology-non_rigid_change"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L3-non_rigid_change",
+        "question_v6": [
+            "Has the white cream sauce in the bowl been stirred evenly?"
+        ]
+    },
+    "9563514_resize1080p_scene-3_frame_0003_60.png": {
+        "instruction": "Make the person place the newspaper on the table",
+        "object": "newspaper",
+        "object_bounding_box": [
+            567,
+            0,
+            1199,
+            621
+        ],
+        "subject_bounding_box": [
+            583,
+            1,
+            2013,
+            795
+        ],
+        "generated_question": "Has the person in the blue bounding box placed the newspaper in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Has the newspaper been placed on the table?"
+        ],
+        "tag": [
+            "L2-morphology-non_rigid_change"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L3-non_rigid_change",
+        "question_v6": [
+            "Has the newspaper been placed on the table?"
+        ]
+    },
+    "3202613_resize1080p_scene-4_last_third_frame46_blur74.3.png": {
+        "instruction": "Make the person type on the laptop with both hands.",
+        "object": "laptop",
+        "object_bounding_box": [
+            974,
+            751,
+            1529,
+            1072
+        ],
+        "subject_bounding_box": [
+            863,
+            228,
+            1529,
+            850
+        ],
+        "generated_question": "Has the person in the blue bounding box typed on the laptop in the red bounding box?",
+        "tool_bboxes": [
+            1044,
+            656,
+            1288,
+            773
+        ],
+        "tools": "",
+        "question": [
+            "Did the person put the bowl and spoon on the table?"
+        ],
+        "tag": [
+            "L3-reasoning_process"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L3-reasoning_process",
+        "question_v6": [
+            "Did the person put the bowl and spoon on the table?"
+        ]
+    },
+    "5694287_resize1080p_scene-1_middle_third_frame27_blur11.6.png": {
+        "instruction": "Make the person check the inside of the coffee pot.",
+        "object": "coffee pot",
+        "object_bounding_box": [
+            691,
+            1135,
+            1079,
+            1853
+        ],
+        "subject_bounding_box": [
+            9,
+            9,
+            812,
+            1697
+        ],
+        "generated_question": "Is the person in the blue bounding box checking the inside of the coffee pot in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Has the person lifted the lid of the coffee pot?"
+        ],
+        "tag": [
+            "L3-reasoning_process"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L3-reasoning_process",
+        "question_v6": [
+            "Has the person lifted the lid of the coffee pot?"
+        ]
+    },
+    "9UadVdecJfk-0:10:03.536-0:10:12.578_frame_0002_140.png": {
+        "instruction": "Make the person put the car part in the plastic bag on the engine",
+        "object": "engine",
+        "object_bounding_box": [
+            644,
+            253,
+            850,
+            517
+        ],
+        "subject_bounding_box": [
+            626,
+            681,
+            815,
+            719
+        ],
+        "generated_question": "Has the person in the blue bounding box put the engine in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Has the person take the car part out of the plastic bag?"
+        ],
+        "tag": [
+            "L3-reasoning_process"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L3-reasoning_process",
+        "question_v6": [
+            "Has the person take the car part out of the plastic bag?"
+        ]
+    },
+    "oTKy9UPmpvQ-0:04:02.760-0:04:09.800_frame_0002_92.png": {
+        "instruction": "Make the person use the scissors to cut the stick",
+        "object": "stick",
+        "object_bounding_box": [
+            559.8504672897196,
+            4.186915887850467,
+            653.1588785046729,
+            615.4766355140187
+        ],
+        "subject_bounding_box": [
+            2,
+            0,
+            1062,
+            332
+        ],
+        "generated_question": "Has the person in the blue bounding box cut the stick in the red bounding box?",
+        "tool_bboxes": [
+            203,
+            5,
+            715,
+            169
+        ],
+        "tools": "",
+        "question": [
+            "Has the stick been cut into pieces?"
+        ],
+        "tag": [
+            "L2-morphology-non_rigid_change"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L3-non_rigid_change",
+        "question_v6": [
+            "Has the stick been cut into pieces?"
+        ]
+    },
+    "zXFmdg7ipog-0:10:33.215-0:10:39.305_frame_0002_68.png": {
+        "instruction": "Make the person put the cut radish into the pot",
+        "object": "radish",
+        "object_bounding_box": [
+            434.2429906542056,
+            497.04672897196264,
+            869.6822429906542,
+            664.5233644859813
+        ],
+        "subject_bounding_box": [
+            631,
+            0,
+            1277,
+            666
+        ],
+        "generated_question": "Has the person in the blue bounding box put the radish in the red bounding box into the pot?",
+        "tool_bboxes": [
+            726,
+            450,
+            804,
+            620
+        ],
+        "tools": "knife",
+        "question": [
+            "Has the person put down the knife"
+        ],
+        "tag": [
+            "L3-reasoning_process"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L3-reasoning_process",
+        "question_v6": [
+            "Has the person put down the knife"
+        ]
+    },
+    "tbGSXernuA8-0:06:13.164-0:06:26.219_frame_0001_0.png": {
+        "instruction": "Make the person spray the whiteboard with black paint using a spray bottle",
+        "object": "scissors",
+        "object_bounding_box": [
+            380,
+            401,
+            555,
+            520
+        ],
+        "subject_bounding_box": [
+            99,
+            51,
+            827,
+            679
+        ],
+        "generated_question": "Has the person in the blue bounding box sprayed the scissors in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": "",
+        "tag": [
+            "L2-location_understanding-specific_pos",
+            "L2-morphology-non_rigid_change"
+        ],
+        "tags_v6": "L1-interaction-relation_occur, L3-non_rigid_change",
+        "question_v6": [
+            "Is the whiteboard sprayed with black?"
+        ]
+    },
+    "NGDvOy110GA-0:04:40.213-0:04:42.348_frame_0001_0.png": {
+        "instruction": "Make the person eat the biscuit in his hand",
+        "object": "spice jar",
+        "object_bounding_box": [
+            360,
+            367,
+            538,
+            485
+        ],
+        "subject_bounding_box": [
+            333,
+            1,
+            1024,
+            718
+        ],
+        "generated_question": "Has the person in the blue bounding box eaten the spice jar in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": "",
+        "tag": [
+            "L2-morphology-non_rigid_change"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L3-non_rigid_change",
+        "question_v6": [
+            "Is the biscuit being eaten?"
+        ]
+    },
+    "19436732_resize1080p_scene-1_last_third_frame44_blur107.2.png": {
+        "instruction": "Make the person stand under the gantry.",
+        "object": "gantry.",
+        "object_bounding_box": [
+            466,
+            31,
+            1621,
+            1072
+        ],
+        "subject_bounding_box": [
+            714,
+            76,
+            1044,
+            1011
+        ],
+        "generated_question": "Has the person in the blue bounding box stood under the gantry. in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Is the ball still clamped between the person's legs?"
+        ],
+        "tag": [
+            "L3-reasoning_process"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L3-reasoning_process",
+        "question_v6": [
+            "Is the ball out from between the person's legs?"
+        ]
+    },
+    "E94Bm-Pn4gE-0:01:05.280-0:01:08.000_frame_0001_5.png": {
+        "instruction": "Make the person pour what's in the spoon to the transparent circular experimental device",
+        "object": "spoon",
+        "object_bounding_box": [
+            639,
+            306,
+            967,
+            399
+        ],
+        "subject_bounding_box": [
+            1,
+            28,
+            1060,
+            718
+        ],
+        "generated_question": "Has the person in the blue bounding box poured the spoon in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Has what's in the spoon been poured into the transparent circular experimental device?",
+            "Has what's in the spoon been poured?"
+        ],
+        "tag": [
+            "L2-location_understanding-specific_pos",
+            "L2-morphology-non_rigid_change"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L2-location_understanding-specific_pos_end, L3-non_rigid_change",
+        "question_v6": [
+            "Has what's in the spoon been poured into the transparent circular experimental device?",
+            "Has what's in the spoon been poured?"
+        ]
+    },
+    "7z5B9e3zz8A-0:03:30.059-0:03:33.529_frame_0003_100.png": {
+        "instruction": "Make the person break the chopsticks",
+        "object": "chopsticks",
+        "object_bounding_box": [
+            577,
+            195,
+            771,
+            359
+        ],
+        "subject_bounding_box": [
+            537,
+            0,
+            1278,
+            718
+        ],
+        "generated_question": "Has the person in the blue bounding box broken the chopsticks in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Have the chopsticks been broken?"
+        ],
+        "tag": [
+            "L2-morphology-non_rigid_change"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L3-non_rigid_change",
+        "question_v6": [
+            "Have the chopsticks been broken?"
+        ]
+    },
+    "op_J1fgK4Pc-0:03:50.396-0:03:57.070_frame_0001_3.png": {
+        "instruction": "Make the person turn of the bulb with the controller",
+        "object": "light bulb",
+        "object_bounding_box": [
+            215,
+            514,
+            407,
+            624
+        ],
+        "subject_bounding_box": [
+            510,
+            0,
+            1278,
+            718
+        ],
+        "generated_question": "Has the person in the blue bounding box turned off the light bulb in the red bounding box?",
+        "tool_bboxes": [
+            610,
+            585,
+            722,
+            669
+        ],
+        "tools": "",
+        "question": [
+            "Has the environment around the bulb dimmed?"
+        ],
+        "tag": [
+            "L2-morphology-non_rigid_change"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L3-non_rigid_change",
+        "question_v6": [
+            "Has the environment around the bulb dimmed?"
+        ]
+    },
+    "un-lzczdGnM-0:01:12.400-0:01:16.800_frame_0002_59.png": {
+        "instruction": "Make the person flip the smartphone",
+        "object": "smartphone",
+        "object_bounding_box": [
+            179,
+            118,
+            1168,
+            718
+        ],
+        "subject_bounding_box": [
+            3.657142857142857,
+            220.34285714285716,
+            1276.3428571428572,
+            715.8857142857142
+        ],
+        "generated_question": "Has the person in the blue bounding box flipped the smartphone in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Has the mobile phone been flipped over?"
+        ],
+        "tag": [
+            "L2-morphology-non_rigid_change"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L3-non_rigid_change",
+        "question_v6": [
+            "Has the mobile phone been flipped over?"
+        ]
+    },
+    "8B7zWi5nFQ0-0:05:15.960-0:05:21.840_frame_0002_79.png": {
+        "instruction": "Make the person peel the tangerine",
+        "object": "tangerine",
+        "object_bounding_box": [
+            511,
+            314,
+            888,
+            576
+        ],
+        "subject_bounding_box": [
+            176,
+            305,
+            1277,
+            717
+        ],
+        "generated_question": "Has the person in the blue bounding box peeled the tangerine in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Has the orange peel been removed?"
+        ],
+        "tag": [
+            "L2-morphology-non_rigid_change"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L3-non_rigid_change",
+        "question_v6": [
+            "Has the orange peel been removed?"
+        ]
+    },
+    "iGK7DRdjTlQ-0:03:26.673-0:03:30.710_frame_0002_63.png": {
+        "instruction": "Make the person pour the lubricating oil on the table into the black bowl",
+        "object": "lubricating oil ",
+        "object_bounding_box": [
+            813.4579439252336,
+            453.98130841121497,
+            940.2616822429907,
+            608.2990654205607
+        ],
+        "subject_bounding_box": [
+            323,
+            20,
+            799,
+            619
+        ],
+        "generated_question": "Has the person in the blue bounding box poured the lubricating oil in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Has the lubricating oil on the table been poured into the black bowl?",
+            "Is there lubricating oil in the black bowl?"
+        ],
+        "tag": [
+            "L2-location_understanding-specific_pos",
+            "L2-morphology-non_rigid_change"
+        ],
+        "tags_v6": "L1-interaction-relation_occur, L2-location_understanding-specific_pos_end, L3-non_rigid_change",
+        "question_v6": [
+            "Has the lubricating oil on the table been poured into the black bowl?",
+            "Is there lubricating oil in the black bowl?"
+        ]
+    },
+    "4665780_resize1080p_scene-0_first_third_frame0_blur94.5.png": {
+        "instruction": "Make the woman soak in the bathtub with running water.",
+        "object": "bathtub",
+        "object_bounding_box": [
+            244,
+            470,
+            1090,
+            1072
+        ],
+        "subject_bounding_box": [
+            927,
+            155,
+            1428,
+            1075
+        ],
+        "generated_question": "Has the person in the blue bounding box soaked in the bathtub in the red bounding box?",
+        "tool_bboxes": [
+            345,
+            463,
+            626,
+            784
+        ],
+        "tools": "faucet",
+        "question": [
+            "Is the faucet on?",
+            "Is the woman lying in the bathtub?"
+        ],
+        "tag": [
+            "L3-reasoning_process"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L3-reasoning_process",
+        "question_v6": [
+            "Is the faucet on and the woman is lying in the bathtub?"
+        ]
+    },
+    "FFHwrVYoiDI-0:03:21.200-0:03:23.800_frame_0002_36.png": {
+        "instruction": "Make the person spread the sauce with the spoon",
+        "object": "sauce",
+        "object_bounding_box": [
+            493,
+            206,
+            750,
+            524
+        ],
+        "subject_bounding_box": [
+            893,
+            0,
+            1278,
+            374
+        ],
+        "generated_question": "Has the person in the blue bounding box spread the sauce in the red bounding box?",
+        "tool_bboxes": [
+            489,
+            12,
+            1013,
+            458
+        ],
+        "tools": "spoon",
+        "question": [
+            "Has the spoon been used to spread the sauce?"
+        ],
+        "tag": [
+            "L2-morphology-non_rigid_change",
+            "L2-tool-already_interacted"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L3-non_rigid_change",
+        "question_v6": [
+            "Has the spoon been used to spread the sauce?"
+        ]
+    },
+    "B7-3e-_848w-0:06:22.507-0:06:34.685_frame_0003_287.png": {
+        "instruction": "Make the person drink the can of drink",
+        "object": "can of drink",
+        "object_bounding_box": [
+            945,
+            430,
+            1042,
+            644
+        ],
+        "subject_bounding_box": [
+            233,
+            29,
+            963,
+            643
+        ],
+        "generated_question": "Has the person in the blue bounding box drunk the can of drink in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Has the drink inside the can been finished?"
+        ],
+        "tag": [
+            "L2-morphology-non_rigid_change"
+        ],
+        "tags_v6": "L1-interaction-relation_occur, L3-non_rigid_change",
+        "question_v6": [
+            "Has the drink inside the can been finished?"
+        ]
+    },
+    "6jnxIzRgM7w-0:01:10.153-0:01:15.575_frame_0001_2.png": {
+        "instruction": "Make the person cut the cake ",
+        "object": "cake",
+        "object_bounding_box": [
+            554,
+            464,
+            719,
+            582
+        ],
+        "subject_bounding_box": [
+            950,
+            614,
+            1073,
+            668
+        ],
+        "generated_question": "Has the person in the blue bounding box cut the cake in the red bounding box?",
+        "tool_bboxes": [
+            950,
+            614,
+            1073,
+            668
+        ],
+        "tools": "knife",
+        "question": [
+            "Has the person cut the cake with the knife on the countertop?"
+        ],
+        "tag": [
+            "L3-reasoning_process"
+        ],
+        "tags_v6": "L1-interaction-relation_occur, L3-non_rigid_change, L3-reasoning_process",
+        "question_v6": [
+            "Has the cake been cut?",
+            "Has the person cut the cake with the knife in the yellow bounding box on the countertop?"
+        ]
+    },
+    "8478943_resize1080p_scene-0_frame_0001_0.png": {
+        "instruction": "Make the person use the red marker pen to write on the whiteboard",
+        "object": "whiteboard",
+        "object_bounding_box": [
+            561,
+            308,
+            1430,
+            955
+        ],
+        "subject_bounding_box": [
+            17,
+            2,
+            552,
+            1077
+        ],
+        "generated_question": "Has the person in the blue bounding box used the whiteboard in the red bounding box?",
+        "tool_bboxes": [
+            490,
+            628,
+            602,
+            676
+        ],
+        "tools": "mark pen",
+        "question": [
+            "Has there already been red marker ink on the whiteboard?",
+            "Has mark pen been used to write on whiteboard?"
+        ],
+        "tag": [
+            "L2-morphology-non_rigid_change",
+            "L2-tool-already_interacted"
+        ],
+        "tags_v6": "L1-interaction-relation_occur, L3-non_rigid_change",
+        "question_v6": [
+            "Has there already been red marker ink on the whiteboard?"
+        ]
+    },
+    "6405941_resize1080p_scene-3_last_third_frame56_blur12.5.png": {
+        "instruction": "Make the person walk into the inner courtyard of the house.",
+        "object": "",
+        "object_bounding_box": [
+            6,
+            9,
+            1071,
+            1913
+        ],
+        "subject_bounding_box": [
+            6,
+            564,
+            719,
+            1908
+        ],
+        "generated_question": "Has the person in the blue bounding box walked into the object in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Is the person in the house's courtyard?",
+            "Has the door of the house been opened"
+        ],
+        "tag": [
+            "L3-reasoning_process"
+        ],
+        "tags_v6": "L1-interaction-relation_occur, L3-reasoning_process",
+        "question_v6": [
+            "Has the door of the house been opened"
+        ]
+    },
+    "o6MUV5SkjBc-0:03:00.013-0:03:48.061_frame_0003_1438.png": {
+        "instruction": "Make the person use the scissors to cut the dessert",
+        "object": "dessert",
+        "object_bounding_box": [
+            349,
+            298,
+            989,
+            466
+        ],
+        "subject_bounding_box": [
+            175,
+            3,
+            1054,
+            397
+        ],
+        "generated_question": "Has the person in the blue bounding box cut the stick in the red bounding box?",
+        "tool_bboxes": [
+            304,
+            415,
+            980,
+            566
+        ],
+        "tools": "",
+        "question": [
+            "Has the dessert been cut into pieces?"
+        ],
+        "tag": [
+            "L2-morphology-non_rigid_change"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L3-non_rigid_change",
+        "question_v6": [
+            "Has the dessert been cut into pieces?"
+        ]
+    },
+    "TGlDgjj-7F8-0:03:59.939-0:04:16.756_frame_0002_252.png": {
+        "instruction": "Make the person use a wrench to tighten the nut on the wheel hub.",
+        "object": "brake rotor",
+        "object_bounding_box": [
+            468,
+            166,
+            988,
+            697
+        ],
+        "subject_bounding_box": [
+            1,
+            1,
+            813,
+            717
+        ],
+        "generated_question": "Has the person in the blue bounding box tightened the brake rotor in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Have the nuts on the wheel hub been tightened?"
+        ],
+        "tag": [
+            "L2-morphology-non_rigid_change"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L3-non_rigid_change",
+        "question_v6": [
+            "Have the nuts on the wheel hub been tightened?"
+        ]
+    },
+    "jdf7_ZZFsRI-0:04:30.069-0:04:36.075_frame_0003_181.png": {
+        "instruction": "Make the person pour the bowl",
+        "object": "bowl",
+        "object_bounding_box": [
+            435,
+            217,
+            880,
+            626
+        ],
+        "subject_bounding_box": [
+            668,
+            0,
+            947,
+            528
+        ],
+        "generated_question": "Has the person in the blue bounding box poured the bowl in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Has the soup in the bowl been poured?"
+        ],
+        "tag": [
+            "L2-morphology-non_rigid_change"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L3-non_rigid_change",
+        "question_v6": [
+            "Has the soup in the bowl been poured?"
+        ]
+    },
+    "5JfrS_yuKPE-0:01:59.244-0:02:03.915_frame_0003_112.png": {
+        "instruction": "Make the person eat the bread",
+        "object": "bread",
+        "object_bounding_box": [
+            419,
+            334,
+            545,
+            414
+        ],
+        "subject_bounding_box": [
+            84,
+            23,
+            590,
+            627
+        ],
+        "generated_question": "Has the person in the blue bounding box eaten the bread in the red bounding box?",
+        "tool_bboxes": [],
+        "tools": "",
+        "question": [
+            "Has the bread been eaten?"
+        ],
+        "tag": [
+            "L2-morphology-non_rigid_change"
+        ],
+        "tags_v6": "L1-interaction-relation_change_only, L3-non_rigid_change",
+        "question_v6": [
+            "Has the bread been eaten?"
+        ]
+    },
+    "SZbdb4LvZyk-0:02:21.208-0:02:47.791_frame_0003_638.png": {
+        "instruction": "Make the person use the camera to take a picture of the teddy bear behind her",
+        "object": "teddy bear",
+        "object_bounding_box": [
+            282,
+            333,
+            455,
+            583
+        ],
+        "subject_bounding_box": [
+            496,
+            99,
+            1042,
+            715
+        ],
+        "generated_question": "Has the person in the blue bounding box taken a picture of the teddy bear in the red bounding box?",
+        "tool_bboxes": [
+            628,
+            815,
+            720,
+            990
+        ],
+        "tools": "camera",
+        "question": [
+            "Has the woman turned around?"
+        ],
+        "tag": [
+            "L3-reasoning_process"
+        ],
+        "tags_v6": "L1-interaction-relation_occur, L3-reasoning_process",
+        "question_v6": [
+            "Has the person turned back to take a picture of the teddy bear?"
+        ]
+    },
+    "FJ7wHpER9R4-0:03:46.851-0:03:51.189_frame_0002_49.png": {
+        "instruction": "Make the person use the air blow gun to clean the drill press.",
+        "object": "drill press",
+        "object_bounding_box": [
+            807,
+            0,
+            1278,
+            340
+        ],
+        "subject_bounding_box": [
+            1,
+            0,
+            811,
+            718
+        ],
+        "generated_question": "Has the person in the blue bounding box used the air blow gun to clean the drill press in the red bounding box?",
+        "tool_bboxes": [
+            717,
+            279,
+            877,
+            467
+        ],
+        "tools": "",
+        "question": [
+            "Has the drill press been cleaned more thoroughly?",
+            "Has the drill press been cleaned with an air blow gun?"
+        ],
+        "tag": [
+            "L2-morphology-non_rigid_change",
+            "L2-tool-already_interacted"
+        ],
+        "tags_v6": "L1-interaction-relation_occur, L3-non_rigid_change",
+        "question_v6": [
+            "Has the drill press been cleaned more thoroughly?"
+        ]
+    },
+    "UMJ-4gvScDM-0:02:33.611-0:02:36.030_frame_0003_54.png": {
+        "instruction": "Make the person use spoon to stir the food in the the bowl",
+        "object": "food in the bowl",
+        "object_bounding_box": [
+            467,
+            266,
+            868,
+            527
+        ],
+        "subject_bounding_box": [
+            361,
+            0,
+            1278,
+            473
+        ],
+        "generated_question": "Has the person in the blue bounding box stirred the food in the bowl in the red bounding box?",
+        "tool_bboxes": [
+            104,
+            465,
+            207,
+            590
+        ],
+        "tools": "spoon",
+        "question": [
+            "Has the person used the spoon on the cutting board to stir?"
+        ],
+        "tag": [
+            "L3-reasoning_process"
+        ],
+        "tags_v6": "L1-interaction-relation_occur, L3-non_rigid_change, L3-reasoning_process",
+        "question_v6": [
+            "Has the food in the bowl been stirred?",
+            "Has the person used the spoon in the yellow bounding box on the cutting board to stir?"
+        ]
+    }
+}

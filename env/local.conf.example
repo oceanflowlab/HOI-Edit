@@ -1,0 +1,29 @@
+#!/usr/bin/env bash
+# 复制为 local.conf 并按本机修改:
+#   cp env/local.conf.example env/local.conf
+
+# ---------- 工作区根（通常无需改，自动检测）----------
+# export EVAL_WORKSPACE="/path/to/cr_eval_release"
+
+# ---------- GroundingDINO ----------
+export GROUNDING_DINO_ROOT="${EVAL_WORKSPACE}/third_party/GroundingDINO"
+
+# ---------- HOI-Edit data / weights ----------
+export HOI_EDIT_DATA_DIR="${EVAL_WORKSPACE}/data"
+export WEIGHTS_DIR="${EVAL_WORKSPACE}/weights"
+export GROUNDING_DINO_CHECKPOINT="${WEIGHTS_DIR}/groundingdino_swint_ogc.pth"
+export SAM2_CHECKPOINT="${WEIGHTS_DIR}/sam2.1_hiera_large.pt"
+
+# ---------- Python 解释器（三个 conda 环境，见 env/requirements/）----------
+export DINO_ENV_PY="/path/to/conda/envs/cr-dino/bin/python"
+export SS_ENV_PY="/path/to/conda/envs/cr-sam2/bin/python"
+export GOOGLE_ENV_PY="/path/to/conda/envs/cr-gemini/bin/python"
+
+# ---------- GPU ----------
+export GPU_ID="0"
+
+# ---------- Gemini API（QA + HOI 共用，必填）----------
+export GEMINI_API_KEY=""
+
+# ---------- 可选：访问 Google API 的 HTTP 代理 ----------
+# export CR_DEFAULT_PROXY_URL="http://127.0.0.1:7890"

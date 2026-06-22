@@ -1,0 +1,7 @@
+{
+  "fs_rules": "[strategies]\n- fs-strat-001: VLM 提示词必须明确指示模型寻找动作**完成时**的**最早**帧，而不是动作的中间态或最后一帧。\n- fs-strat-002: VLM 提示词应包含一个由原始指令转换而来的、封闭式的 Yes/No 问题，以提高判断的准确性。\n- fs-strat-003: VLM 提示词必须根据动作类型（静态/动态）来调整对「视觉清晰度」的要求。\n- fs-strat-004: 对于静态动作（如 put down），质量标准是「视觉清晰，无运动模糊」。\n- fs-strat-005: 对于动态动作（如 wave），质量标准是「可接受轻微的运动模糊，以传达动作感」。\n\n[templates]\n- fs-tpl-001: 在 N 帧中回答 question，返回**第一个**能明确回答 Yes 且**视觉质量达标**的帧（索引从 1 起）。\n- fs-tpl-002: 针对 action_type 应用上述质量标准。\n\n[pitfalls]\n- fs-pitfall-001: 禁止只问「哪一帧最好」；必须强调「最早」和「完成」。",
+  "quality_static": "必须视觉清晰、无运动模糊。",
+  "quality_dynamic": "可接受轻微运动模糊以传达动作感。",
+  "call1": "ace_v2f_qa2_call1_question\n你是 HOI 选帧的「问题生成器」。根据内嵌规则，为指令生成完成态 Yes/No 问题。\n\n[内嵌选帧规则]\n{fs_rules}\n\n[原始指令]: \"{instruction}\"\n\n[任务]\n1. 判断 action_type: \"static\" 或 \"dynamic\"\n2. 按 fs-strat-002 将指令转为关于**动作完成态**的封闭式 Yes/No 问题 (question)\n3. question 必须可用于在视频帧序列中判断「是否已完成」\n\n[输出 JSON]\n- action_type: \"static\" | \"dynamic\"\n- question: 英文 Yes/No 问句\n- reasoning: 简短说明",
+  "call2": "ace_v2f_qa2_call2_select\n你是 HOI 视频选帧专家。你将看到 {n} 张按时间顺序排列的帧（索引 1 到 {n}）。\n\n[原始指令]: \"{instruction}\"\n[VLM 问题]: \"{question}\"\n[动作类型]: \"{action_type}\"\n[质量标准]: {quality}\n\n[内嵌规则摘要]\n- 优先 (strict): 找**第一个**（索引最小）对 [VLM 问题] 能明确回答 Yes **且** 满足 [质量标准] 的帧。\n- 若不存在完美帧 (best_effort): 选**最符合 [原始指令]** 且**最接近动作完成**的一帧；主客体可见；画质尽量好。\n- 禁止偏向最后一帧；禁止只选中间态。\n\n[输出 JSON]\n- best_frame_index: 1 到 {n}\n- strict_pass: 所选帧是否同时满足 Yes + 质量标准\n- selection_mode: \"strict_earliest_yes\" 或 \"best_effort\"\n- match_score: 0.0-1.0\n- reasoning: 简短理由"
+}

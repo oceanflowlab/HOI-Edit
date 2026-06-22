@@ -1,0 +1,15 @@
+# SAM2 跟踪环境
+# 创建: conda create -n cr-sam2 python=3.10 -y && conda activate cr-sam2
+
+torch>=2.3
+torchvision
+numpy
+opencv-python-headless
+pillow
+matplotlib
+tqdm
+hydra-core
+iopath
+
+# SAM2 权重 (~900MB):
+#   从 ASSETS.md 下载并放到 weights/sam2.1_hiera_large.pt

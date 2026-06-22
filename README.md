@@ -12,3 +12,95 @@ Current image editing methods excels at static attributes but fails at complex H
   <a href="assets/HOIEdit_ICML_2026_CR_submission.pdf">Paper (PDF)</a> |
   <a href="assets/fig1_v3.pdf">Figure (PDF)</a>
 </p>
+
+## Code Release
+
+This repository contains code and annotation JSON files for **HOI-Edit**, **HOI-Eval**, and **SCPE**. Large assets are hosted separately. See [ASSETS.md](ASSETS.md).
+
+## Download Assets
+
+Download `hoi_edit_assets_v7.tar.gz` from [ASSETS.md](ASSETS.md), then extract it at the repository root:
+
+```bash
+tar -xzf hoi_edit_assets_v7.tar.gz
+```
+
+Expected layout:
+
+```text
+data/
+├── collected_annotations_bboxes_v7_L1L2_questions_scoring_final.json
+├── collected_annotations_bboxes_v7_L3_questions_scoring_final.json
+├── data_v7_L12/
+└── data_v7_L3/
+
+weights/
+├── groundingdino_swint_ogc.pth
+└── sam2.1_hiera_large.pt
+```
+
+## SCPE Setup
+
+SCPE stands for **Self-Correcting Process Editing** and lives in [scpe/](scpe). It uses Gemini for Playbook learning, inference, and frame selection. It can use either DashScope Wan2.2 I2V or a local Wan2.2 I2V A14B checkout for video generation.
+
+```bash
+cd scpe
+./setup_env.sh
+cp env.example env.local
+```
+
+Edit `scpe/env.local`:
+
+```bash
+export GEMINI_API_KEY="your-gemini-api-key"
+export DASHSCOPE_API_KEY="your-dashscope-api-key"  # DashScope backend only
+export ACE_LANG="cn"
+export DATA_ROOT="/path/to/data"
+export WAN22_REPO="/path/to/Wan2.2"
+export WAN22_CKPT_DIR="/path/to/Wan2.2-I2V-A14B"
+```
+
+## SCPE Run
+
+1. Original Wan2.2 generation:
+
+```bash
+cd scpe
+source env.local
+./run_minimal.sh wan22
+```
+
+2. Learn one-round Playbook with SCPE:
+
+```bash
+./run_minimal.sh learn
+```
+
+3. Use the learned Playbook for prompt enhancement and frame selection:
+
+```bash
+./run_minimal.sh enhance
+./run_minimal.sh wan22
+./run_minimal.sh qa2
+```
+
+For local Wan2.2:
+
+```bash
+WAN22_BACKEND=local ./run_minimal.sh wan22
+```
+
+## HOI-Eval
+
+Place edited frames at:
+
+```text
+data/<model_name>_frames/L1L2/
+data/<model_name>_frames/L3/
+```
+
+Then run:
+
+```bash
+MODELS=<model_name> bash run_eval.sh
+```
