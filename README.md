@@ -3,7 +3,7 @@
 <!-- Replace the # targets below when the public resources are available. -->
 [![arXiv](https://img.shields.io/badge/arXiv-2607.19073-b31b1b.svg)](https://arxiv.org/abs/2606.19073)
 [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=plastic&logo=githubpages&logoColor=blue)](https://andyplus1.github.io/HOIEdit_page/)
-[![Dataset](https://img.shields.io/badge/Dataset-Storage-dfa12b?style=flat&logo=baidu&logoColor=white)](https://pan.baidu.com/s/1XBGmKSqbz_j8q2Tjkxaghg)
+[![Dataset](https://img.shields.io/badge/Dataset-PW:vx45-dfa12b?style=flat&logo=baidu&logoColor=white)](https://pan.baidu.com/s/1XBGmKSqbz_j8q2Tjkxaghg)
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=plastic&logo=youtube)](https://www.youtube.com/watch?v=Wr355j98Cdo)
 
 This repository is the official PyTorch implementation of the paper
